@@ -1,0 +1,6 @@
+category_code,category_name,category_description,price_range
+1,Budget,"Basic amenities, shared facilities possible",€0–€60
+2,Economy,"Essential comforts, private bathroom",€60–€100
+3,Standard,"Good quality, full amenities included",€100–€150
+4,Superior,"High quality, additional services available",€150–€250
+5,Luxury,"Premium experience, full-service concierge",€250+

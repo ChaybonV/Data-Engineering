@@ -1,0 +1,1094 @@
+room_id,accommodation_id,room_type,price_per_night,max_guests,breakfast_included,cancellation_policy
+ROOM00001,ACC0001,Deluxe Double,68.36,2,False,moderate
+ROOM00002,ACC0001,Twin,41.33,2,False,moderate
+ROOM00003,ACC0001,Single,32.61,1,False,flexible
+ROOM00004,ACC0001,Family Room,77.88,4,False,flexible
+ROOM00005,ACC0002,Single,238.18,1,False,strict
+ROOM00006,ACC0003,Family Room,120.96,4,True,flexible
+ROOM00007,ACC0003,Suite,170.31,3,False,moderate
+ROOM00008,ACC0004,Deluxe Double,398.61,2,True,moderate
+ROOM00009,ACC0004,Twin,315.09,2,False,flexible
+ROOM00010,ACC0004,Single,219.62,1,False,strict
+ROOM00011,ACC0005,Dormitory,24.71,8,False,moderate
+ROOM00012,ACC0006,Twin,116.9,2,True,strict
+ROOM00013,ACC0007,Dormitory,32.43,8,False,flexible
+ROOM00014,ACC0007,Deluxe Double,149.8,2,False,moderate
+ROOM00015,ACC0008,Double,41.98,2,False,moderate
+ROOM00016,ACC0008,Single,39.05,1,False,moderate
+ROOM00017,ACC0008,Deluxe Double,71.4,2,False,strict
+ROOM00018,ACC0008,Suite,116.44,3,False,flexible
+ROOM00019,ACC0009,Twin,90.77,2,False,strict
+ROOM00020,ACC0009,Single,61.69,1,False,moderate
+ROOM00021,ACC0010,Suite,178.17,3,False,strict
+ROOM00022,ACC0010,Family Room,145.18,4,True,moderate
+ROOM00023,ACC0010,Dormitory,22.66,8,False,moderate
+ROOM00024,ACC0011,Family Room,218.94,4,True,moderate
+ROOM00025,ACC0011,Deluxe Double,161.75,2,False,moderate
+ROOM00026,ACC0011,Suite,265.25,3,True,strict
+ROOM00027,ACC0012,Family Room,109.83,4,False,strict
+ROOM00028,ACC0012,Dormitory,21.91,8,False,strict
+ROOM00029,ACC0013,Deluxe Double,494.74,2,False,strict
+ROOM00030,ACC0014,Double,41.66,2,True,strict
+ROOM00031,ACC0014,Family Room,70.34,4,False,flexible
+ROOM00032,ACC0014,Twin,44.31,2,False,strict
+ROOM00033,ACC0014,Deluxe Double,61.13,2,False,strict
+ROOM00034,ACC0015,Deluxe Double,191.61,2,True,flexible
+ROOM00035,ACC0016,Family Room,183.65,4,True,strict
+ROOM00036,ACC0016,Deluxe Double,192.37,2,False,moderate
+ROOM00037,ACC0017,Single,234.65,1,True,moderate
+ROOM00038,ACC0017,Deluxe Double,431.08,2,False,strict
+ROOM00039,ACC0017,Family Room,525.61,4,True,moderate
+ROOM00040,ACC0017,Twin,367.78,2,False,flexible
+ROOM00041,ACC0018,Suite,522.21,3,True,moderate
+ROOM00042,ACC0018,Single,143.42,1,False,flexible
+ROOM00043,ACC0018,Family Room,305.93,4,False,moderate
+ROOM00044,ACC0019,Suite,213.32,3,False,moderate
+ROOM00045,ACC0020,Twin,276.29,2,True,flexible
+ROOM00046,ACC0021,Family Room,81.29,4,True,strict
+ROOM00047,ACC0021,Single,32.48,1,True,moderate
+ROOM00048,ACC0021,Double,-45.81,2,False,flexible
+ROOM00049,ACC0022,Family Room,185.99,4,True,moderate
+ROOM00050,ACC0022,Double,123.32,2,False,flexible
+ROOM00051,ACC0022,Deluxe Double,178.32,2,True,moderate
+ROOM00052,ACC0022,Suite,322.71,3,True,strict
+ROOM00053,ACC0023,Deluxe Double,186.75,2,True,moderate
+ROOM00054,ACC0024,Double,111.44,2,False,strict
+ROOM00055,ACC0024,Suite,341.93,3,False,strict
+ROOM00056,ACC0024,Single,92.79,1,False,strict
+ROOM00057,ACC0025,Twin,76.45,2,False,strict
+ROOM00058,ACC0026,Deluxe Double,66.89,2,False,strict
+ROOM00059,ACC0026,Family Room,73.95,4,True,moderate
+ROOM00060,ACC0027,Double,42.37,2,True,moderate
+ROOM00061,ACC0028,Dormitory,13.17,8,True,strict
+ROOM00062,ACC0028,Suite,108.58,3,True,moderate
+ROOM00063,ACC0029,Dormitory,95.7,8,True,flexible
+ROOM00064,ACC0029,Double,302.2,2,False,strict
+ROOM00065,ACC0030,Deluxe Double,429.05,2,True,moderate
+ROOM00066,ACC0031,Double,136.7,2,False,moderate
+ROOM00067,ACC0031,Suite,316.62,3,False,strict
+ROOM00068,ACC0032,Suite,326.63,3,True,moderate
+ROOM00069,ACC0032,Double,103.18,2,True,strict
+ROOM00070,ACC0032,Single,89.91,1,False,strict
+ROOM00071,ACC0032,Dormitory,38.62,8,False,strict
+ROOM00072,ACC0033,Dormitory,11.94,8,False,strict
+ROOM00073,ACC0034,Deluxe Double,179.04,2,True,moderate
+ROOM00074,ACC0035,Family Room,562.7,4,True,moderate
+ROOM00075,ACC0036,Suite,185.77,3,True,moderate
+ROOM00076,ACC0037,Deluxe Double,290.89,2,True,strict
+ROOM00077,ACC0038,Deluxe Double,65.51,2,True,strict
+ROOM00078,ACC0038,Family Room,64.21,4,True,flexible
+ROOM00079,ACC0038,Dormitory,14.74,8,False,strict
+ROOM00080,ACC0039,Dormitory,22.73,8,False,moderate
+ROOM00081,ACC0039,Deluxe Double,114.44,2,True,flexible
+ROOM00082,ACC0039,Double,91.11,2,False,flexible
+ROOM00083,ACC0040,Deluxe Double,282.07,2,True,flexible
+ROOM00084,ACC0040,Family Room,271.74,4,False,flexible
+ROOM00085,ACC0040,Double,204.9,2,False,moderate
+ROOM00086,ACC0041,Dormitory,12.56,8,False,moderate
+ROOM00087,ACC0041,Family Room,70.96,4,True,moderate
+ROOM00088,ACC0042,Family Room,145.29,4,False,strict
+ROOM00089,ACC0042,Twin,68.06,2,True,strict
+ROOM00090,ACC0042,Suite,228.33,3,False,flexible
+ROOM00091,ACC0043,Double,74.44,2,False,moderate
+ROOM00092,ACC0043,Suite,202.84,3,True,strict
+ROOM00093,ACC0043,Deluxe Double,123.84,2,False,strict
+ROOM00094,ACC0043,Family Room,138.07,4,True,flexible
+ROOM00095,ACC0044,Single,150.02,1,False,flexible
+ROOM00096,ACC0044,Deluxe Double,305.56,2,True,strict
+ROOM00097,ACC0044,Double,178.71,2,False,flexible
+ROOM00098,ACC0044,Suite,497.03,3,False,flexible
+ROOM00099,ACC0045,Family Room,110.79,4,False,strict
+ROOM00100,ACC0045,Deluxe Double,-118.7,2,True,moderate
+ROOM00101,ACC0045,Double,83.73,2,True,flexible
+ROOM00102,ACC0046,Suite,-100.1,3,True,strict
+ROOM00103,ACC0046,Single,37.94,1,True,flexible
+ROOM00104,ACC0047,Deluxe Double,474.08,2,False,flexible
+ROOM00105,ACC0047,Single,235.18,1,True,strict
+ROOM00106,ACC0047,Suite,873.43,3,True,moderate
+ROOM00107,ACC0048,Twin,346.25,2,True,strict
+ROOM00108,ACC0048,Double,367.32,2,True,flexible
+ROOM00109,ACC0048,Suite,807.32,3,True,strict
+ROOM00110,ACC0049,Suite,213.35,3,True,moderate
+ROOM00111,ACC0049,Twin,82.79,2,False,flexible
+ROOM00112,ACC0050,Single,228.35,1,True,strict
+ROOM00113,ACC0051,Twin,110.92,2,True,flexible
+ROOM00114,ACC0051,Suite,304.81,3,False,strict
+ROOM00115,ACC0051,Deluxe Double,144.15,2,False,flexible
+ROOM00116,ACC0051,Double,120.64,2,True,strict
+ROOM00117,ACC0052,Twin,189.71,2,True,flexible
+ROOM00118,ACC0052,Family Room,303.96,4,True,strict
+ROOM00119,ACC0052,Single,169.73,1,True,moderate
+ROOM00120,ACC0052,Double,214.73,2,True,moderate
+ROOM00121,ACC0053,Twin,363.63,2,True,flexible
+ROOM00122,ACC0053,Dormitory,98.52,8,True,moderate
+ROOM00123,ACC0053,Double,292.71,2,True,moderate
+ROOM00124,ACC0053,Suite,801.59,3,False,moderate
+ROOM00125,ACC0054,Single,89.59,1,False,flexible
+ROOM00126,ACC0054,Family Room,192.65,4,True,flexible
+ROOM00127,ACC0054,Dormitory,36.39,8,False,strict
+ROOM00128,ACC0054,Double,124.83,2,True,moderate
+ROOM00129,ACC0055,Family Room,448.44,4,False,flexible
+ROOM00130,ACC0055,Double,315.52,2,True,moderate
+ROOM00131,ACC0055,Single,268.75,1,True,flexible
+ROOM00132,ACC0055,Deluxe Double,382.5,2,True,strict
+ROOM00133,ACC0056,Double,319.66,2,False,strict
+ROOM00134,ACC0057,Double,48.37,2,False,strict
+ROOM00135,ACC0057,Twin,50.22,2,True,moderate
+ROOM00136,ACC0057,Deluxe Double,68.8,2,False,strict
+ROOM00137,ACC0058,Twin,85.1,2,True,moderate
+ROOM00138,ACC0059,Dormitory,63.15,8,True,moderate
+ROOM00139,ACC0059,Twin,170.47,2,True,strict
+ROOM00140,ACC0059,Single,159.94,1,True,flexible
+ROOM00141,ACC0059,Suite,509.31,3,True,flexible
+ROOM00142,ACC0060,Double,38.87,2,False,moderate
+ROOM00143,ACC0061,Double,193.01,2,False,flexible
+ROOM00144,ACC0061,Single,143.87,1,False,strict
+ROOM00145,ACC0062,Twin,76.95,2,True,flexible
+ROOM00146,ACC0062,Single,58.69,1,True,moderate
+ROOM00147,ACC0062,Dormitory,20.9,8,False,moderate
+ROOM00148,ACC0063,Twin,187.53,2,False,flexible
+ROOM00149,ACC0063,Single,142.5,1,False,strict
+ROOM00150,ACC0063,Dormitory,59.1,8,False,moderate
+ROOM00151,ACC0064,Deluxe Double,100.26,2,False,flexible
+ROOM00152,ACC0064,Double,73.59,2,False,strict
+ROOM00153,ACC0064,Dormitory,26.44,8,True,moderate
+ROOM00154,ACC0064,Family Room,108.86,4,False,strict
+ROOM00155,ACC0065,Single,174.03,1,False,moderate
+ROOM00156,ACC0065,Double,216.29,2,True,strict
+ROOM00157,ACC0065,Dormitory,53.24,8,True,flexible
+ROOM00158,ACC0066,Family Room,131.1,4,True,strict
+ROOM00159,ACC0066,Twin,87.68,2,True,strict
+ROOM00160,ACC0066,Suite,-204.07,3,False,strict
+ROOM00161,ACC0066,Single,72.91,1,True,moderate
+ROOM00162,ACC0067,Deluxe Double,178.12,2,False,moderate
+ROOM00163,ACC0067,Twin,118.3,2,True,flexible
+ROOM00164,ACC0067,Suite,339.92,3,True,strict
+ROOM00165,ACC0068,Double,70.54,2,False,moderate
+ROOM00166,ACC0069,Suite,107.72,3,True,moderate
+ROOM00167,ACC0069,Single,33.93,1,False,flexible
+ROOM00168,ACC0069,Dormitory,11.84,8,False,strict
+ROOM00169,ACC0070,Double,132.09,2,False,flexible
+ROOM00170,ACC0071,Family Room,177.5,4,False,moderate
+ROOM00171,ACC0072,Family Room,481.1,4,True,flexible
+ROOM00172,ACC0073,Deluxe Double,147.57,2,True,flexible
+ROOM00173,ACC0073,Suite,265.93,3,True,flexible
+ROOM00174,ACC0073,Dormitory,32.01,8,False,moderate
+ROOM00175,ACC0073,Double,126.71,2,True,strict
+ROOM00176,ACC0074,Deluxe Double,514.82,2,True,strict
+ROOM00177,ACC0074,Single,251.66,1,True,flexible
+ROOM00178,ACC0074,Family Room,574.22,4,False,flexible
+ROOM00179,ACC0075,Suite,692.15,3,False,strict
+ROOM00180,ACC0076,Suite,428.38,3,True,flexible
+ROOM00181,ACC0076,Single,-141.74,1,False,flexible
+ROOM00182,ACC0076,Deluxe Double,228.87,2,True,strict
+ROOM00183,ACC0076,Dormitory,53.5,8,False,strict
+ROOM00184,ACC0077,Single,57.03,1,True,strict
+ROOM00185,ACC0077,Deluxe Double,124.92,2,True,strict
+ROOM00186,ACC0077,Twin,91.86,2,True,moderate
+ROOM00187,ACC0077,Suite,216.91,3,False,moderate
+ROOM00188,ACC0078,Twin,115.98,2,True,flexible
+ROOM00189,ACC0078,Dormitory,34.04,8,True,flexible
+ROOM00190,ACC0078,Family Room,214.8,4,False,flexible
+ROOM00191,ACC0078,Deluxe Double,183.56,2,False,strict
+ROOM00192,ACC0079,Deluxe Double,303.82,2,True,flexible
+ROOM00193,ACC0079,Dormitory,59.68,8,False,strict
+ROOM00194,ACC0079,Double,208.03,2,True,flexible
+ROOM00195,ACC0080,Twin,195.27,2,False,strict
+ROOM00196,ACC0080,Double,163.11,2,False,strict
+ROOM00197,ACC0080,Family Room,309.8,4,True,moderate
+ROOM00198,ACC0080,Dormitory,57.72,8,True,moderate
+ROOM00199,ACC0081,Single,221.91,1,True,flexible
+ROOM00200,ACC0082,Single,69.88,1,False,strict
+ROOM00201,ACC0082,Twin,72.26,2,False,flexible
+ROOM00202,ACC0082,Dormitory,20.56,8,True,flexible
+ROOM00203,ACC0082,Double,88.32,2,False,flexible
+ROOM00204,ACC0083,Family Room,311.84,4,False,moderate
+ROOM00205,ACC0083,Deluxe Double,251.84,2,True,strict
+ROOM00206,ACC0083,Suite,538.94,3,False,strict
+ROOM00207,ACC0084,Double,47.61,2,False,flexible
+ROOM00208,ACC0084,Family Room,75.58,4,True,moderate
+ROOM00209,ACC0084,Dormitory,12.72,8,False,flexible
+ROOM00210,ACC0085,Family Room,145.23,4,False,strict
+ROOM00211,ACC0085,Single,55.02,1,False,strict
+ROOM00212,ACC0086,Family Room,63.45,4,False,flexible
+ROOM00213,ACC0086,Dormitory,12.82,8,True,flexible
+ROOM00214,ACC0087,Twin,208.33,2,False,moderate
+ROOM00215,ACC0087,Double,162.15,2,True,flexible
+ROOM00216,ACC0087,Single,160.81,1,False,moderate
+ROOM00217,ACC0088,Family Room,258.52,4,False,moderate
+ROOM00218,ACC0089,Double,181.52,2,False,flexible
+ROOM00219,ACC0089,Suite,521.85,3,True,flexible
+ROOM00220,ACC0089,Family Room,299.56,4,True,moderate
+ROOM00221,ACC0089,Dormitory,48.79,8,False,flexible
+ROOM00222,ACC0090,Twin,40.55,2,False,flexible
+ROOM00223,ACC0091,Dormitory,64.56,8,True,moderate
+ROOM00224,ACC0092,Family Room,528.48,4,False,flexible
+ROOM00225,ACC0092,Single,221.71,1,False,flexible
+ROOM00226,ACC0092,Suite,913.86,3,False,strict
+ROOM00227,ACC0092,Double,325.19,2,False,strict
+ROOM00228,ACC0093,Twin,164.33,2,False,flexible
+ROOM00229,ACC0093,Double,164.61,2,True,moderate
+ROOM00230,ACC0093,Single,133.2,1,False,flexible
+ROOM00231,ACC0094,Single,233.49,1,False,flexible
+ROOM00232,ACC0095,Deluxe Double,166.54,2,False,flexible
+ROOM00233,ACC0095,Single,100.09,1,False,flexible
+ROOM00234,ACC0095,Twin,115.36,2,False,moderate
+ROOM00235,ACC0095,Suite,271.79,3,True,moderate
+ROOM00236,ACC0096,Suite,203.85,3,True,strict
+ROOM00237,ACC0096,Twin,84.02,2,True,strict
+ROOM00238,ACC0096,Double,76.25,2,False,strict
+ROOM00239,ACC0096,Family Room,117.54,4,True,moderate
+ROOM00240,ACC0097,Dormitory,13.4,8,True,moderate
+ROOM00241,ACC0097,Family Room,80.7,4,True,strict
+ROOM00242,ACC0097,Suite,114.9,3,True,flexible
+ROOM00243,ACC0097,Double,-51.06,2,False,flexible
+ROOM00244,ACC0098,Double,71.03,2,False,flexible
+ROOM00245,ACC0098,Deluxe Double,128.41,2,False,flexible
+ROOM00246,ACC0099,Deluxe Double,58.42,2,True,flexible
+ROOM00247,ACC0099,Dormitory,13.05,8,False,strict
+ROOM00248,ACC0100,Deluxe Double,165.89,2,True,strict
+ROOM00249,ACC0100,Twin,124.43,2,False,flexible
+ROOM00250,ACC0100,Dormitory,35.08,8,True,strict
+ROOM00251,ACC0101,Single,260.81,1,True,moderate
+ROOM00252,ACC0102,Suite,497.06,3,False,flexible
+ROOM00253,ACC0102,Twin,171.32,2,False,flexible
+ROOM00254,ACC0102,Deluxe Double,275.44,2,False,flexible
+ROOM00255,ACC0103,Twin,204.01,2,False,moderate
+ROOM00256,ACC0103,Family Room,260.25,4,False,moderate
+ROOM00257,ACC0103,Double,177.48,2,False,strict
+ROOM00258,ACC0103,Single,160.43,1,True,flexible
+ROOM00259,ACC0104,Family Room,476.58,4,False,strict
+ROOM00260,ACC0104,Suite,834.93,3,True,moderate
+ROOM00261,ACC0104,Twin,292.29,2,False,strict
+ROOM00262,ACC0105,Deluxe Double,267.22,2,True,flexible
+ROOM00263,ACC0105,Dormitory,53.77,8,False,flexible
+ROOM00264,ACC0105,Twin,205.99,2,True,flexible
+ROOM00265,ACC0105,Single,137.99,1,True,flexible
+ROOM00266,ACC0106,Single,55.37,1,False,strict
+ROOM00267,ACC0106,Suite,181.95,3,False,moderate
+ROOM00268,ACC0107,Family Room,292.37,4,False,flexible
+ROOM00269,ACC0107,Single,173.0,1,False,strict
+ROOM00270,ACC0107,Deluxe Double,270.1,2,False,flexible
+ROOM00271,ACC0107,Double,209.25,2,False,strict
+ROOM00272,ACC0108,Twin,102.99,2,True,flexible
+ROOM00273,ACC0109,Deluxe Double,65.79,2,True,moderate
+ROOM00274,ACC0109,Double,47.05,2,True,strict
+ROOM00275,ACC0110,Suite,224.69,3,True,strict
+ROOM00276,ACC0111,Double,111.09,2,False,strict
+ROOM00277,ACC0112,Suite,197.54,3,True,moderate
+ROOM00278,ACC0112,Deluxe Double,105.35,2,False,strict
+ROOM00279,ACC0112,Twin,70.46,2,False,strict
+ROOM00280,ACC0113,Twin,188.96,2,False,moderate
+ROOM00281,ACC0113,Family Room,316.82,4,False,moderate
+ROOM00282,ACC0113,Single,159.12,1,False,flexible
+ROOM00283,ACC0114,Dormitory,26.88,8,False,strict
+ROOM00284,ACC0114,Double,75.67,2,True,strict
+ROOM00285,ACC0115,Family Room,,4,False,moderate
+ROOM00286,ACC0116,Suite,285.89,3,True,strict
+ROOM00287,ACC0116,Deluxe Double,169.75,2,False,strict
+ROOM00288,ACC0116,Single,91.92,1,False,flexible
+ROOM00289,ACC0116,Double,132.26,2,True,moderate
+ROOM00290,ACC0117,Suite,421.98,3,False,strict
+ROOM00291,ACC0118,Family Room,133.93,4,True,moderate
+ROOM00292,ACC0118,Twin,73.36,2,False,moderate
+ROOM00293,ACC0119,Twin,300.23,2,True,moderate
+ROOM00294,ACC0119,Deluxe Double,388.01,2,True,moderate
+ROOM00295,ACC0119,Dormitory,107.22,8,True,strict
+ROOM00296,ACC0120,Dormitory,40.01,8,True,flexible
+ROOM00297,ACC0120,Twin,137.72,2,False,moderate
+ROOM00298,ACC0120,Suite,343.85,3,False,flexible
+ROOM00299,ACC0120,Single,90.71,1,True,flexible
+ROOM00300,ACC0121,Twin,83.23,2,True,moderate
+ROOM00301,ACC0121,Family Room,119.3,4,True,strict
+ROOM00302,ACC0121,Double,86.35,2,False,flexible
+ROOM00303,ACC0121,Deluxe Double,99.55,2,False,strict
+ROOM00304,ACC0122,Suite,95.78,3,True,strict
+ROOM00305,ACC0122,Deluxe Double,60.6,2,True,moderate
+ROOM00306,ACC0122,Family Room,77.55,4,True,flexible
+ROOM00307,ACC0122,Dormitory,14.22,8,True,flexible
+ROOM00308,ACC0123,Twin,115.81,2,False,flexible
+ROOM00309,ACC0123,Double,104.35,2,True,moderate
+ROOM00310,ACC0123,Single,108.92,1,False,strict
+ROOM00311,ACC0124,Suite,107.19,3,False,moderate
+ROOM00312,ACC0124,Family Room,77.4,4,True,moderate
+ROOM00313,ACC0124,Double,38.51,2,True,strict
+ROOM00314,ACC0125,Double,274.1,2,True,flexible
+ROOM00315,ACC0125,Family Room,491.51,4,True,moderate
+ROOM00316,ACC0126,Deluxe Double,229.98,2,True,strict
+ROOM00317,ACC0126,Dormitory,50.3,8,True,flexible
+ROOM00318,ACC0126,Family Room,321.31,4,False,moderate
+ROOM00319,ACC0127,Single,67.88,1,True,strict
+ROOM00320,ACC0127,Dormitory,25.34,8,True,moderate
+ROOM00321,ACC0127,Twin,78.1,2,True,strict
+ROOM00322,ACC0127,Suite,201.22,3,True,moderate
+ROOM00323,ACC0128,Dormitory,,8,True,moderate
+ROOM00324,ACC0129,Deluxe Double,148.16,2,True,strict
+ROOM00325,ACC0130,Deluxe Double,492.55,2,True,moderate
+ROOM00326,ACC0130,Twin,339.53,2,False,flexible
+ROOM00327,ACC0131,Dormitory,35.96,8,True,strict
+ROOM00328,ACC0132,Twin,47.32,2,True,strict
+ROOM00329,ACC0132,Double,47.28,2,True,flexible
+ROOM00330,ACC0132,Single,39.02,1,True,strict
+ROOM00331,ACC0132,Dormitory,14.41,8,False,strict
+ROOM00332,ACC0133,Suite,104.54,3,True,flexible
+ROOM00333,ACC0133,Twin,49.23,2,True,moderate
+ROOM00334,ACC0134,Deluxe Double,164.27,2,True,flexible
+ROOM00335,ACC0134,Family Room,212.23,4,True,flexible
+ROOM00336,ACC0134,Twin,132.67,2,True,moderate
+ROOM00337,ACC0135,Suite,125.27,3,True,moderate
+ROOM00338,ACC0135,Dormitory,14.78,8,True,flexible
+ROOM00339,ACC0135,Twin,43.66,2,False,moderate
+ROOM00340,ACC0136,Family Room,63.64,4,True,flexible
+ROOM00341,ACC0136,Suite,99.13,3,False,strict
+ROOM00342,ACC0136,Deluxe Double,66.37,2,True,strict
+ROOM00343,ACC0136,Double,43.38,2,False,strict
+ROOM00344,ACC0137,Deluxe Double,66.49,2,True,moderate
+ROOM00345,ACC0138,Single,222.46,1,False,flexible
+ROOM00346,ACC0138,Suite,849.1,3,True,strict
+ROOM00347,ACC0138,Family Room,569.31,4,True,moderate
+ROOM00348,ACC0138,Deluxe Double,469.73,2,True,moderate
+ROOM00349,ACC0139,Family Room,458.03,4,True,flexible
+ROOM00350,ACC0139,Deluxe Double,467.27,2,True,strict
+ROOM00351,ACC0139,Suite,883.72,3,False,flexible
+ROOM00352,ACC0140,Deluxe Double,265.33,2,True,moderate
+ROOM00353,ACC0141,Single,36.55,1,False,moderate
+ROOM00354,ACC0141,Dormitory,14.78,8,True,moderate
+ROOM00355,ACC0141,Double,44.25,2,False,flexible
+ROOM00356,ACC0142,Suite,214.71,3,True,flexible
+ROOM00357,ACC0142,Twin,77.68,2,True,strict
+ROOM00358,ACC0142,Single,64.94,1,True,strict
+ROOM00359,ACC0142,Deluxe Double,127.56,2,False,strict
+ROOM00360,ACC0143,Family Room,505.27,4,False,moderate
+ROOM00361,ACC0143,Deluxe Double,491.72,2,True,moderate
+ROOM00362,ACC0144,Dormitory,56.54,8,False,strict
+ROOM00363,ACC0144,Deluxe Double,262.21,2,True,strict
+ROOM00364,ACC0144,Family Room,278.62,4,False,moderate
+ROOM00365,ACC0145,Dormitory,25.46,8,True,flexible
+ROOM00366,ACC0145,Deluxe Double,111.75,2,False,flexible
+ROOM00367,ACC0145,Twin,74.1,2,True,flexible
+ROOM00368,ACC0146,Deluxe Double,108.4,2,False,flexible
+ROOM00369,ACC0147,Single,288.76,1,True,moderate
+ROOM00370,ACC0147,Suite,789.77,3,True,moderate
+ROOM00371,ACC0147,Deluxe Double,381.38,2,True,strict
+ROOM00372,ACC0148,Deluxe Double,281.31,2,True,strict
+ROOM00373,ACC0148,Dormitory,62.39,8,True,moderate
+ROOM00374,ACC0148,Suite,497.45,3,False,strict
+ROOM00375,ACC0148,Double,211.74,2,False,strict
+ROOM00376,ACC0149,Twin,51.26,2,False,moderate
+ROOM00377,ACC0149,Suite,122.79,3,True,moderate
+ROOM00378,ACC0150,Deluxe Double,124.12,2,True,flexible
+ROOM00379,ACC0150,Family Room,116.85,4,False,strict
+ROOM00380,ACC0150,Dormitory,22.89,8,True,strict
+ROOM00381,ACC0151,Dormitory,14.29,8,False,strict
+ROOM00382,ACC0151,Deluxe Double,55.73,2,False,strict
+ROOM00383,ACC0152,Dormitory,26.72,8,False,flexible
+ROOM00384,ACC0152,Deluxe Double,112.76,2,True,moderate
+ROOM00385,ACC0152,Suite,178.72,3,True,flexible
+ROOM00386,ACC0152,Twin,,2,True,moderate
+ROOM00387,ACC0153,Double,109.34,2,True,moderate
+ROOM00388,ACC0153,Single,105.04,1,True,strict
+ROOM00389,ACC0153,Twin,133.25,2,True,strict
+ROOM00390,ACC0154,Double,214.31,2,False,moderate
+ROOM00391,ACC0154,Dormitory,64.81,8,False,strict
+ROOM00392,ACC0154,Twin,164.57,2,False,flexible
+ROOM00393,ACC0154,Single,157.5,1,False,flexible
+ROOM00394,ACC0155,Deluxe Double,480.05,2,True,strict
+ROOM00395,ACC0155,Dormitory,109.37,8,False,moderate
+ROOM00396,ACC0155,Family Room,-462.45,4,True,flexible
+ROOM00397,ACC0156,Family Room,269.29,4,True,moderate
+ROOM00398,ACC0156,Dormitory,53.22,8,False,flexible
+ROOM00399,ACC0157,Dormitory,81.76,8,False,strict
+ROOM00400,ACC0157,Twin,362.0,2,True,flexible
+ROOM00401,ACC0158,Dormitory,62.87,8,False,moderate
+ROOM00402,ACC0158,Single,165.22,1,False,flexible
+ROOM00403,ACC0158,Deluxe Double,288.67,2,False,strict
+ROOM00404,ACC0159,Double,-69.64,2,True,moderate
+ROOM00405,ACC0159,Dormitory,24.31,8,False,flexible
+ROOM00406,ACC0160,Double,303.78,2,False,flexible
+ROOM00407,ACC0160,Deluxe Double,508.52,2,False,strict
+ROOM00408,ACC0160,Twin,351.07,2,True,flexible
+ROOM00409,ACC0161,Suite,900.47,3,True,flexible
+ROOM00410,ACC0161,Double,337.52,2,False,moderate
+ROOM00411,ACC0161,Dormitory,107.98,8,True,moderate
+ROOM00412,ACC0162,Dormitory,11.58,8,False,strict
+ROOM00413,ACC0162,Family Room,78.54,4,False,moderate
+ROOM00414,ACC0162,Twin,38.84,2,True,moderate
+ROOM00415,ACC0163,Single,86.42,1,True,strict
+ROOM00416,ACC0164,Double,199.71,2,True,strict
+ROOM00417,ACC0165,Deluxe Double,65.77,2,True,strict
+ROOM00418,ACC0165,Single,38.01,1,True,moderate
+ROOM00419,ACC0165,Double,47.93,2,True,flexible
+ROOM00420,ACC0165,Suite,98.1,3,True,moderate
+ROOM00421,ACC0166,Dormitory,14.8,8,False,moderate
+ROOM00422,ACC0167,Suite,448.84,3,False,strict
+ROOM00423,ACC0167,Family Room,269.19,4,True,strict
+ROOM00424,ACC0167,Deluxe Double,283.58,2,True,strict
+ROOM00425,ACC0167,Dormitory,58.46,8,True,moderate
+ROOM00426,ACC0168,Twin,347.54,2,False,strict
+ROOM00427,ACC0169,Twin,86.37,2,False,moderate
+ROOM00428,ACC0170,Deluxe Double,150.68,2,True,flexible
+ROOM00429,ACC0170,Family Room,206.21,4,False,strict
+ROOM00430,ACC0170,Single,85.75,1,False,flexible
+ROOM00431,ACC0170,Suite,304.82,3,True,flexible
+ROOM00432,ACC0171,Single,65.4,1,False,strict
+ROOM00433,ACC0172,Twin,41.09,2,False,flexible
+ROOM00434,ACC0173,Family Room,115.87,4,False,flexible
+ROOM00435,ACC0173,Dormitory,21.23,8,True,strict
+ROOM00436,ACC0173,Double,79.07,2,True,moderate
+ROOM00437,ACC0173,Deluxe Double,117.77,2,False,flexible
+ROOM00438,ACC0174,Family Room,191.26,4,False,moderate
+ROOM00439,ACC0174,Dormitory,31.98,8,True,flexible
+ROOM00440,ACC0175,Dormitory,34.03,8,False,moderate
+ROOM00441,ACC0175,Single,99.35,1,False,strict
+ROOM00442,ACC0175,Double,123.03,2,False,moderate
+ROOM00443,ACC0176,Double,206.28,2,False,moderate
+ROOM00444,ACC0176,Single,167.51,1,True,strict
+ROOM00445,ACC0176,Twin,203.28,2,False,moderate
+ROOM00446,ACC0176,Deluxe Double,261.64,2,False,moderate
+ROOM00447,ACC0177,Double,125.24,2,True,moderate
+ROOM00448,ACC0178,Dormitory,12.54,8,True,strict
+ROOM00449,ACC0178,Double,39.27,2,True,strict
+ROOM00450,ACC0179,Deluxe Double,172.13,2,False,strict
+ROOM00451,ACC0180,Single,59.4,1,False,strict
+ROOM00452,ACC0180,Dormitory,25.98,8,False,moderate
+ROOM00453,ACC0181,Deluxe Double,119.84,2,False,flexible
+ROOM00454,ACC0181,Dormitory,23.75,8,True,moderate
+ROOM00455,ACC0182,Dormitory,106.02,8,True,strict
+ROOM00456,ACC0182,Single,228.38,1,True,flexible
+ROOM00457,ACC0182,Double,,2,True,strict
+ROOM00458,ACC0183,Twin,41.38,2,False,moderate
+ROOM00459,ACC0183,Single,33.13,1,True,strict
+ROOM00460,ACC0183,Double,50.5,2,False,moderate
+ROOM00461,ACC0183,Suite,111.48,3,False,flexible
+ROOM00462,ACC0184,Family Room,68.2,4,False,strict
+ROOM00463,ACC0185,Dormitory,32.48,8,False,moderate
+ROOM00464,ACC0185,Deluxe Double,172.42,2,True,strict
+ROOM00465,ACC0185,Family Room,177.69,4,True,strict
+ROOM00466,ACC0186,Twin,89.29,2,True,strict
+ROOM00467,ACC0186,Deluxe Double,124.84,2,False,flexible
+ROOM00468,ACC0186,Suite,183.8,3,False,flexible
+ROOM00469,ACC0186,Dormitory,21.48,8,True,moderate
+ROOM00470,ACC0187,Family Room,279.41,4,False,strict
+ROOM00471,ACC0188,Suite,842.06,3,False,flexible
+ROOM00472,ACC0189,Family Room,109.66,4,True,flexible
+ROOM00473,ACC0189,Suite,204.41,3,True,flexible
+ROOM00474,ACC0190,Dormitory,21.46,8,True,moderate
+ROOM00475,ACC0191,Dormitory,58.7,8,True,strict
+ROOM00476,ACC0191,Suite,507.49,3,False,flexible
+ROOM00477,ACC0192,Suite,344.35,3,False,flexible
+ROOM00478,ACC0192,Dormitory,32.97,8,False,strict
+ROOM00479,ACC0193,Deluxe Double,491.07,2,True,strict
+ROOM00480,ACC0193,Dormitory,100.6,8,False,flexible
+ROOM00481,ACC0194,Suite,261.2,3,False,moderate
+ROOM00482,ACC0194,Dormitory,32.03,8,True,flexible
+ROOM00483,ACC0194,Family Room,193.31,4,False,flexible
+ROOM00484,ACC0195,Double,79.42,2,True,strict
+ROOM00485,ACC0196,Single,254.64,1,True,strict
+ROOM00486,ACC0197,Deluxe Double,66.37,2,False,strict
+ROOM00487,ACC0198,Twin,174.58,2,False,moderate
+ROOM00488,ACC0198,Single,145.18,1,True,moderate
+ROOM00489,ACC0198,Dormitory,50.74,8,False,flexible
+ROOM00490,ACC0198,Suite,533.44,3,True,moderate
+ROOM00491,ACC0199,Twin,46.05,2,True,strict
+ROOM00492,ACC0199,Double,38.35,2,True,strict
+ROOM00493,ACC0199,Single,39.29,1,False,moderate
+ROOM00494,ACC0199,Dormitory,11.91,8,False,strict
+ROOM00495,ACC0200,Twin,45.87,2,False,strict
+ROOM00496,ACC0200,Dormitory,13.08,8,True,moderate
+ROOM00497,ACC0200,Suite,114.26,3,False,flexible
+ROOM00498,ACC0201,Dormitory,12.5,8,False,strict
+ROOM00499,ACC0201,Deluxe Double,60.06,2,False,strict
+ROOM00500,ACC0201,Suite,100.28,3,True,strict
+ROOM00501,ACC0202,Suite,127.66,3,True,flexible
+ROOM00502,ACC0202,Family Room,72.18,4,False,strict
+ROOM00503,ACC0203,Double,309.35,2,True,flexible
+ROOM00504,ACC0204,Suite,110.32,3,True,moderate
+ROOM00505,ACC0204,Dormitory,12.37,8,True,strict
+ROOM00506,ACC0205,Family Room,185.34,4,False,strict
+ROOM00507,ACC0206,Family Room,217.67,4,True,strict
+ROOM00508,ACC0206,Dormitory,35.94,8,True,flexible
+ROOM00509,ACC0206,Single,106.1,1,False,flexible
+ROOM00510,ACC0207,Deluxe Double,64.88,2,True,strict
+ROOM00511,ACC0208,Family Room,490.46,4,True,flexible
+ROOM00512,ACC0208,Single,224.27,1,False,moderate
+ROOM00513,ACC0209,Family Room,525.22,4,True,strict
+ROOM00514,ACC0209,Suite,848.87,3,True,strict
+ROOM00515,ACC0209,Deluxe Double,419.04,2,False,moderate
+ROOM00516,ACC0210,Double,78.91,2,False,strict
+ROOM00517,ACC0210,Dormitory,20.43,8,True,moderate
+ROOM00518,ACC0210,Deluxe Double,112.21,2,True,strict
+ROOM00519,ACC0211,Twin,136.44,2,False,strict
+ROOM00520,ACC0211,Single,94.35,1,False,strict
+ROOM00521,ACC0211,Dormitory,35.82,8,True,moderate
+ROOM00522,ACC0212,Family Room,71.61,4,False,flexible
+ROOM00523,ACC0212,Suite,108.54,3,True,strict
+ROOM00524,ACC0212,Dormitory,14.31,8,False,moderate
+ROOM00525,ACC0212,Single,40.92,1,True,strict
+ROOM00526,ACC0213,Double,116.36,2,False,flexible
+ROOM00527,ACC0213,Twin,121.96,2,True,moderate
+ROOM00528,ACC0213,Single,90.64,1,True,strict
+ROOM00529,ACC0214,Double,-44.99,2,True,flexible
+ROOM00530,ACC0214,Family Room,77.09,4,False,flexible
+ROOM00531,ACC0214,Deluxe Double,,2,True,strict
+ROOM00532,ACC0215,Double,360.34,2,False,strict
+ROOM00533,ACC0215,Single,218.11,1,True,moderate
+ROOM00534,ACC0215,Family Room,492.22,4,False,moderate
+ROOM00535,ACC0216,Suite,747.26,3,True,strict
+ROOM00536,ACC0216,Double,284.31,2,False,moderate
+ROOM00537,ACC0216,Dormitory,108.66,8,True,strict
+ROOM00538,ACC0217,Suite,468.9,3,True,strict
+ROOM00539,ACC0217,Family Room,305.66,4,False,strict
+ROOM00540,ACC0217,Double,161.98,2,True,moderate
+ROOM00541,ACC0218,Twin,43.13,2,False,flexible
+ROOM00542,ACC0219,Double,364.02,2,False,moderate
+ROOM00543,ACC0219,Twin,289.66,2,False,flexible
+ROOM00544,ACC0219,Suite,780.58,3,False,moderate
+ROOM00545,ACC0220,Twin,137.25,2,True,flexible
+ROOM00546,ACC0220,Suite,319.87,3,True,strict
+ROOM00547,ACC0220,Double,117.56,2,False,flexible
+ROOM00548,ACC0220,Dormitory,32.18,8,True,moderate
+ROOM00549,ACC0221,Double,312.47,2,True,strict
+ROOM00550,ACC0222,Deluxe Double,155.45,2,True,moderate
+ROOM00551,ACC0222,Suite,263.91,3,True,flexible
+ROOM00552,ACC0222,Twin,109.76,2,False,moderate
+ROOM00553,ACC0223,Suite,509.85,3,False,moderate
+ROOM00554,ACC0224,Dormitory,54.33,8,False,flexible
+ROOM00555,ACC0224,Deluxe Double,254.12,2,True,strict
+ROOM00556,ACC0224,Twin,194.33,2,True,moderate
+ROOM00557,ACC0225,Twin,119.55,2,False,flexible
+ROOM00558,ACC0225,Family Room,185.15,4,False,moderate
+ROOM00559,ACC0225,Dormitory,37.42,8,True,flexible
+ROOM00560,ACC0226,Suite,306.45,3,True,flexible
+ROOM00561,ACC0226,Family Room,172.53,4,True,moderate
+ROOM00562,ACC0226,Dormitory,34.02,8,False,strict
+ROOM00563,ACC0227,Dormitory,12.57,8,False,moderate
+ROOM00564,ACC0227,Family Room,77.35,4,False,moderate
+ROOM00565,ACC0227,Suite,101.27,3,True,flexible
+ROOM00566,ACC0228,Family Room,144.91,4,True,flexible
+ROOM00567,ACC0228,Twin,72.01,2,True,flexible
+ROOM00568,ACC0229,Suite,811.62,3,True,moderate
+ROOM00569,ACC0230,Single,141.17,1,True,flexible
+ROOM00570,ACC0231,Twin,314.54,2,True,flexible
+ROOM00571,ACC0231,Double,322.57,2,True,flexible
+ROOM00572,ACC0231,Family Room,440.6,4,False,moderate
+ROOM00573,ACC0231,Deluxe Double,496.95,2,False,strict
+ROOM00574,ACC0232,Dormitory,15.4,8,True,strict
+ROOM00575,ACC0232,Suite,115.79,3,False,strict
+ROOM00576,ACC0232,Double,46.89,2,False,moderate
+ROOM00577,ACC0233,Dormitory,12.72,8,False,moderate
+ROOM00578,ACC0233,Double,40.35,2,True,flexible
+ROOM00579,ACC0233,Single,36.25,1,True,moderate
+ROOM00580,ACC0233,Suite,105.3,3,True,strict
+ROOM00581,ACC0234,Deluxe Double,68.02,2,False,strict
+ROOM00582,ACC0234,Suite,103.43,3,True,strict
+ROOM00583,ACC0234,Twin,43.29,2,False,strict
+ROOM00584,ACC0234,Single,35.32,1,True,flexible
+ROOM00585,ACC0235,Deluxe Double,146.79,2,True,strict
+ROOM00586,ACC0235,Suite,323.81,3,False,moderate
+ROOM00587,ACC0235,Double,125.34,2,False,moderate
+ROOM00588,ACC0235,Twin,108.77,2,True,flexible
+ROOM00589,ACC0236,Twin,46.85,2,False,moderate
+ROOM00590,ACC0236,Single,38.17,1,False,flexible
+ROOM00591,ACC0237,Single,41.07,1,True,flexible
+ROOM00592,ACC0237,Double,51.38,2,False,moderate
+ROOM00593,ACC0237,Deluxe Double,55.91,2,False,strict
+ROOM00594,ACC0238,Double,166.64,2,True,moderate
+ROOM00595,ACC0239,Twin,42.46,2,False,moderate
+ROOM00596,ACC0239,Suite,111.27,3,True,moderate
+ROOM00597,ACC0240,Deluxe Double,180.63,2,True,flexible
+ROOM00598,ACC0241,Deluxe Double,113.45,2,True,flexible
+ROOM00599,ACC0241,Suite,223.74,3,False,moderate
+ROOM00600,ACC0241,Single,70.3,1,True,strict
+ROOM00601,ACC0242,Suite,277.24,3,True,flexible
+ROOM00602,ACC0242,Deluxe Double,166.03,2,True,strict
+ROOM00603,ACC0243,Suite,500.86,3,False,moderate
+ROOM00604,ACC0243,Deluxe Double,238.76,2,True,strict
+ROOM00605,ACC0244,Twin,119.32,2,False,flexible
+ROOM00606,ACC0245,Single,173.58,1,True,strict
+ROOM00607,ACC0245,Family Room,298.0,4,True,flexible
+ROOM00608,ACC0245,Double,206.78,2,True,moderate
+ROOM00609,ACC0246,Single,155.7,1,False,strict
+ROOM00610,ACC0246,Deluxe Double,273.68,2,False,flexible
+ROOM00611,ACC0247,Double,280.77,2,False,strict
+ROOM00612,ACC0247,Suite,694.41,3,False,strict
+ROOM00613,ACC0248,Family Room,78.3,4,True,moderate
+ROOM00614,ACC0248,Dormitory,12.42,8,False,moderate
+ROOM00615,ACC0249,Single,92.48,1,True,moderate
+ROOM00616,ACC0249,Family Room,214.96,4,False,strict
+ROOM00617,ACC0250,Dormitory,87.07,8,True,strict
+ROOM00618,ACC0250,Twin,305.38,2,False,moderate
+ROOM00619,ACC0250,Deluxe Double,497.41,2,True,flexible
+ROOM00620,ACC0250,Suite,807.47,3,False,moderate
+ROOM00621,ACC0251,Dormitory,20.41,8,False,strict
+ROOM00622,ACC0251,Twin,,2,True,strict
+ROOM00623,ACC0251,Suite,221.41,3,True,moderate
+ROOM00624,ACC0252,Family Room,145.94,4,False,flexible
+ROOM00625,ACC0253,Deluxe Double,424.16,2,False,flexible
+ROOM00626,ACC0253,Dormitory,84.37,8,True,flexible
+ROOM00627,ACC0253,Double,352.18,2,True,flexible
+ROOM00628,ACC0253,Twin,355.86,2,True,flexible
+ROOM00629,ACC0254,Double,335.16,2,False,flexible
+ROOM00630,ACC0254,Single,245.74,1,True,flexible
+ROOM00631,ACC0254,Family Room,578.08,4,True,strict
+ROOM00632,ACC0254,Suite,797.94,3,True,moderate
+ROOM00633,ACC0255,Twin,193.31,2,False,moderate
+ROOM00634,ACC0256,Deluxe Double,463.72,2,True,strict
+ROOM00635,ACC0257,Deluxe Double,158.12,2,True,strict
+ROOM00636,ACC0258,Single,273.29,1,False,flexible
+ROOM00637,ACC0259,Dormitory,52.7,8,True,strict
+ROOM00638,ACC0259,Family Room,326.73,4,False,strict
+ROOM00639,ACC0260,Deluxe Double,466.63,2,False,strict
+ROOM00640,ACC0261,Family Room,-64.8,4,True,strict
+ROOM00641,ACC0261,Deluxe Double,61.14,2,False,strict
+ROOM00642,ACC0261,Suite,100.96,3,False,moderate
+ROOM00643,ACC0261,Single,40.35,1,False,moderate
+ROOM00644,ACC0262,Deluxe Double,462.57,2,True,moderate
+ROOM00645,ACC0262,Family Room,552.81,4,False,moderate
+ROOM00646,ACC0262,Suite,910.8,3,False,moderate
+ROOM00647,ACC0262,Twin,272.02,2,True,moderate
+ROOM00648,ACC0263,Dormitory,50.76,8,False,flexible
+ROOM00649,ACC0264,Double,102.78,2,False,strict
+ROOM00650,ACC0264,Deluxe Double,168.57,2,True,flexible
+ROOM00651,ACC0264,Twin,103.36,2,False,flexible
+ROOM00652,ACC0265,Twin,134.03,2,True,flexible
+ROOM00653,ACC0265,Deluxe Double,155.71,2,False,flexible
+ROOM00654,ACC0266,Dormitory,14.69,8,True,moderate
+ROOM00655,ACC0266,Double,49.4,2,True,strict
+ROOM00656,ACC0266,Single,37.54,1,True,strict
+ROOM00657,ACC0266,Twin,49.16,2,False,flexible
+ROOM00658,ACC0267,Deluxe Double,252.78,2,False,moderate
+ROOM00659,ACC0268,Deluxe Double,287.58,2,True,strict
+ROOM00660,ACC0269,Single,242.12,1,True,moderate
+ROOM00661,ACC0269,Twin,320.23,2,True,flexible
+ROOM00662,ACC0269,Dormitory,83.05,8,False,moderate
+ROOM00663,ACC0269,Deluxe Double,481.98,2,True,flexible
+ROOM00664,ACC0270,Twin,114.1,2,False,strict
+ROOM00665,ACC0270,Suite,322.08,3,False,moderate
+ROOM00666,ACC0270,Double,105.06,2,False,strict
+ROOM00667,ACC0270,Dormitory,32.01,8,True,moderate
+ROOM00668,ACC0271,Suite,209.13,3,True,strict
+ROOM00669,ACC0271,Deluxe Double,115.9,2,True,flexible
+ROOM00670,ACC0272,Twin,346.57,2,False,strict
+ROOM00671,ACC0273,Single,269.19,1,False,moderate
+ROOM00672,ACC0274,Double,329.01,2,True,moderate
+ROOM00673,ACC0274,Twin,288.25,2,False,strict
+ROOM00674,ACC0274,Family Room,561.4,4,False,strict
+ROOM00675,ACC0275,Suite,225.45,3,True,flexible
+ROOM00676,ACC0275,Single,-67.56,1,True,strict
+ROOM00677,ACC0276,Single,274.4,1,True,strict
+ROOM00678,ACC0277,Deluxe Double,95.66,2,True,moderate
+ROOM00679,ACC0277,Twin,78.8,2,True,moderate
+ROOM00680,ACC0278,Family Room,175.4,4,False,strict
+ROOM00681,ACC0278,Dormitory,35.82,8,True,strict
+ROOM00682,ACC0279,Suite,204.98,3,True,moderate
+ROOM00683,ACC0280,Single,138.35,1,False,flexible
+ROOM00684,ACC0280,Twin,188.0,2,True,flexible
+ROOM00685,ACC0281,Family Room,61.61,4,False,flexible
+ROOM00686,ACC0281,Twin,51.48,2,True,moderate
+ROOM00687,ACC0281,Deluxe Double,62.71,2,True,flexible
+ROOM00688,ACC0281,Single,32.75,1,False,strict
+ROOM00689,ACC0282,Single,140.48,1,False,moderate
+ROOM00690,ACC0283,Suite,453.17,3,False,moderate
+ROOM00691,ACC0283,Family Room,315.42,4,True,strict
+ROOM00692,ACC0283,Double,177.23,2,True,strict
+ROOM00693,ACC0283,Single,140.95,1,False,flexible
+ROOM00694,ACC0284,Double,134.3,2,True,flexible
+ROOM00695,ACC0284,Deluxe Double,179.59,2,True,moderate
+ROOM00696,ACC0284,Twin,110.65,2,True,moderate
+ROOM00697,ACC0285,Dormitory,36.46,8,True,strict
+ROOM00698,ACC0285,Twin,106.99,2,True,flexible
+ROOM00699,ACC0285,Suite,282.81,3,True,moderate
+ROOM00700,ACC0286,Family Room,144.02,4,False,flexible
+ROOM00701,ACC0286,Dormitory,24.41,8,True,flexible
+ROOM00702,ACC0287,Deluxe Double,68.02,2,False,moderate
+ROOM00703,ACC0287,Double,42.35,2,False,flexible
+ROOM00704,ACC0287,Single,39.01,1,True,flexible
+ROOM00705,ACC0288,Single,264.98,1,True,strict
+ROOM00706,ACC0288,Dormitory,88.29,8,True,moderate
+ROOM00707,ACC0289,Family Room,78.04,4,True,strict
+ROOM00708,ACC0290,Family Room,79.61,4,False,moderate
+ROOM00709,ACC0290,Deluxe Double,-56.15,2,True,flexible
+ROOM00710,ACC0290,Twin,38.69,2,True,moderate
+ROOM00711,ACC0290,Double,51.08,2,True,strict
+ROOM00712,ACC0291,Deluxe Double,97.42,2,False,strict
+ROOM00713,ACC0291,Double,79.76,2,False,moderate
+ROOM00714,ACC0292,Suite,216.57,3,False,strict
+ROOM00715,ACC0292,Deluxe Double,105.71,2,True,strict
+ROOM00716,ACC0293,Suite,296.12,3,True,flexible
+ROOM00717,ACC0294,Family Room,72.35,4,True,flexible
+ROOM00718,ACC0294,Single,33.74,1,False,moderate
+ROOM00719,ACC0294,Dormitory,14.61,8,False,moderate
+ROOM00720,ACC0294,Suite,101.24,3,False,strict
+ROOM00721,ACC0295,Family Room,72.37,4,True,moderate
+ROOM00722,ACC0296,Single,32.54,1,True,moderate
+ROOM00723,ACC0296,Family Room,70.13,4,False,flexible
+ROOM00724,ACC0296,Dormitory,12.2,8,True,moderate
+ROOM00725,ACC0296,Deluxe Double,55.25,2,False,strict
+ROOM00726,ACC0297,Family Room,170.32,4,True,strict
+ROOM00727,ACC0297,Deluxe Double,165.45,2,False,flexible
+ROOM00728,ACC0298,Family Room,292.94,4,False,flexible
+ROOM00729,ACC0298,Dormitory,61.59,8,False,strict
+ROOM00730,ACC0298,Deluxe Double,295.63,2,True,flexible
+ROOM00731,ACC0298,Double,211.02,2,True,strict
+ROOM00732,ACC0299,Suite,447.65,3,False,moderate
+ROOM00733,ACC0300,Single,109.26,1,True,strict
+ROOM00734,ACC0300,Double,129.55,2,True,moderate
+ROOM00735,ACC0301,Deluxe Double,173.44,2,False,flexible
+ROOM00736,ACC0301,Suite,274.52,3,False,moderate
+ROOM00737,ACC0301,Dormitory,35.03,8,True,strict
+ROOM00738,ACC0301,Single,98.88,1,True,strict
+ROOM00739,ACC0302,Dormitory,14.8,8,True,flexible
+ROOM00740,ACC0302,Family Room,65.19,4,True,strict
+ROOM00741,ACC0302,Deluxe Double,60.15,2,True,flexible
+ROOM00742,ACC0303,Twin,167.71,2,True,flexible
+ROOM00743,ACC0303,Single,159.85,1,True,moderate
+ROOM00744,ACC0303,Family Room,326.74,4,False,flexible
+ROOM00745,ACC0304,Deluxe Double,249.98,2,False,moderate
+ROOM00746,ACC0305,Deluxe Double,61.63,2,True,moderate
+ROOM00747,ACC0306,Double,120.97,2,True,strict
+ROOM00748,ACC0306,Single,87.62,1,True,flexible
+ROOM00749,ACC0306,Twin,122.57,2,True,moderate
+ROOM00750,ACC0306,Dormitory,38.42,8,False,moderate
+ROOM00751,ACC0307,Twin,218.22,2,False,flexible
+ROOM00752,ACC0307,Dormitory,58.95,8,False,strict
+ROOM00753,ACC0307,Family Room,324.9,4,False,moderate
+ROOM00754,ACC0308,Dormitory,60.57,8,True,flexible
+ROOM00755,ACC0308,Double,168.24,2,False,strict
+ROOM00756,ACC0309,Family Room,212.05,4,False,moderate
+ROOM00757,ACC0310,Twin,305.57,2,True,flexible
+ROOM00758,ACC0311,Family Room,474.28,4,True,moderate
+ROOM00759,ACC0311,Twin,300.83,2,False,flexible
+ROOM00760,ACC0312,Family Room,182.4,4,False,strict
+ROOM00761,ACC0313,Deluxe Double,240.12,2,False,moderate
+ROOM00762,ACC0314,Suite,268.98,3,False,strict
+ROOM00763,ACC0314,Single,107.4,1,False,moderate
+ROOM00764,ACC0314,Double,135.4,2,True,strict
+ROOM00765,ACC0314,Deluxe Double,157.89,2,False,strict
+ROOM00766,ACC0315,Double,81.86,2,False,moderate
+ROOM00767,ACC0316,Double,112.1,2,True,moderate
+ROOM00768,ACC0317,Family Room,275.49,4,True,moderate
+ROOM00769,ACC0317,Dormitory,60.51,8,False,strict
+ROOM00770,ACC0317,Double,163.3,2,False,flexible
+ROOM00771,ACC0317,Suite,474.58,3,True,moderate
+ROOM00772,ACC0318,Deluxe Double,240.07,2,False,flexible
+ROOM00773,ACC0318,Twin,205.83,2,True,moderate
+ROOM00774,ACC0318,Double,190.34,2,False,strict
+ROOM00775,ACC0318,Family Room,272.45,4,False,moderate
+ROOM00776,ACC0319,Deluxe Double,181.58,2,True,strict
+ROOM00777,ACC0319,Twin,126.36,2,True,flexible
+ROOM00778,ACC0319,Double,128.08,2,False,moderate
+ROOM00779,ACC0320,Single,60.37,1,True,strict
+ROOM00780,ACC0321,Twin,118.81,2,True,flexible
+ROOM00781,ACC0322,Single,158.33,1,True,moderate
+ROOM00782,ACC0322,Dormitory,51.88,8,False,moderate
+ROOM00783,ACC0322,Twin,191.84,2,False,strict
+ROOM00784,ACC0323,Twin,286.33,2,False,flexible
+ROOM00785,ACC0324,Dormitory,58.02,8,True,flexible
+ROOM00786,ACC0325,Dormitory,32.13,8,False,strict
+ROOM00787,ACC0325,Twin,110.81,2,True,moderate
+ROOM00788,ACC0325,Family Room,198.52,4,False,strict
+ROOM00789,ACC0326,Single,71.74,1,True,flexible
+ROOM00790,ACC0326,Double,77.21,2,True,moderate
+ROOM00791,ACC0326,Deluxe Double,108.37,2,False,strict
+ROOM00792,ACC0326,Suite,191.34,3,False,flexible
+ROOM00793,ACC0327,Deluxe Double,483.54,2,True,flexible
+ROOM00794,ACC0328,Single,63.43,1,True,flexible
+ROOM00795,ACC0328,Suite,221.67,3,False,moderate
+ROOM00796,ACC0328,Twin,77.41,2,False,moderate
+ROOM00797,ACC0328,Family Room,126.21,4,True,flexible
+ROOM00798,ACC0329,Single,-105.96,1,False,moderate
+ROOM00799,ACC0329,Twin,123.76,2,True,strict
+ROOM00800,ACC0329,Suite,264.26,3,True,moderate
+ROOM00801,ACC0329,Dormitory,36.61,8,True,moderate
+ROOM00802,ACC0330,Suite,207.25,3,True,moderate
+ROOM00803,ACC0330,Dormitory,23.16,8,False,flexible
+ROOM00804,ACC0330,Deluxe Double,122.55,2,False,moderate
+ROOM00805,ACC0330,Double,81.61,2,False,strict
+ROOM00806,ACC0331,Double,84.07,2,False,flexible
+ROOM00807,ACC0331,Family Room,131.54,4,False,moderate
+ROOM00808,ACC0332,Deluxe Double,440.64,2,False,moderate
+ROOM00809,ACC0333,Dormitory,11.92,8,False,moderate
+ROOM00810,ACC0334,Family Room,468.63,4,True,strict
+ROOM00811,ACC0334,Deluxe Double,502.2,2,True,flexible
+ROOM00812,ACC0334,Single,268.36,1,False,strict
+ROOM00813,ACC0334,Dormitory,90.0,8,False,flexible
+ROOM00814,ACC0335,Family Room,180.46,4,False,moderate
+ROOM00815,ACC0335,Twin,127.84,2,False,flexible
+ROOM00816,ACC0336,Dormitory,65.32,8,False,flexible
+ROOM00817,ACC0337,Single,173.34,1,True,strict
+ROOM00818,ACC0337,Twin,193.42,2,False,flexible
+ROOM00819,ACC0337,Dormitory,63.18,8,True,flexible
+ROOM00820,ACC0338,Family Room,204.2,4,False,moderate
+ROOM00821,ACC0338,Dormitory,35.3,8,True,strict
+ROOM00822,ACC0338,Suite,270.61,3,True,flexible
+ROOM00823,ACC0338,Twin,122.0,2,False,moderate
+ROOM00824,ACC0339,Twin,106.52,2,True,flexible
+ROOM00825,ACC0339,Family Room,200.55,4,True,strict
+ROOM00826,ACC0340,Family Room,64.16,4,False,moderate
+ROOM00827,ACC0340,Suite,125.78,3,False,strict
+ROOM00828,ACC0340,Double,40.68,2,False,strict
+ROOM00829,ACC0340,Single,39.46,1,False,moderate
+ROOM00830,ACC0341,Double,82.51,2,False,strict
+ROOM00831,ACC0341,Suite,184.2,3,False,moderate
+ROOM00832,ACC0342,Single,95.52,1,False,flexible
+ROOM00833,ACC0342,Deluxe Double,172.05,2,True,flexible
+ROOM00834,ACC0342,Dormitory,38.49,8,False,moderate
+ROOM00835,ACC0343,Dormitory,63.67,8,True,flexible
+ROOM00836,ACC0344,Family Room,314.31,4,False,strict
+ROOM00837,ACC0344,Deluxe Double,288.23,2,False,moderate
+ROOM00838,ACC0344,Single,152.58,1,False,strict
+ROOM00839,ACC0344,Twin,203.33,2,False,moderate
+ROOM00840,ACC0345,Twin,201.12,2,False,strict
+ROOM00841,ACC0345,Double,206.25,2,False,flexible
+ROOM00842,ACC0345,Single,157.9,1,True,strict
+ROOM00843,ACC0346,Family Room,82.59,4,True,moderate
+ROOM00844,ACC0347,Single,168.03,1,False,moderate
+ROOM00845,ACC0347,Double,169.05,2,False,moderate
+ROOM00846,ACC0347,Dormitory,63.12,8,True,strict
+ROOM00847,ACC0347,Deluxe Double,235.0,2,True,strict
+ROOM00848,ACC0348,Family Room,184.5,4,True,moderate
+ROOM00849,ACC0348,Suite,325.43,3,True,moderate
+ROOM00850,ACC0349,Deluxe Double,496.65,2,False,flexible
+ROOM00851,ACC0349,Dormitory,109.46,8,True,moderate
+ROOM00852,ACC0350,Deluxe Double,284.03,2,True,flexible
+ROOM00853,ACC0350,Suite,486.08,3,False,flexible
+ROOM00854,ACC0350,Double,198.11,2,True,flexible
+ROOM00855,ACC0350,Family Room,273.69,4,False,moderate
+ROOM00856,ACC0351,Suite,736.08,3,False,moderate
+ROOM00857,ACC0351,Family Room,475.54,4,False,flexible
+ROOM00858,ACC0351,Dormitory,89.92,8,False,moderate
+ROOM00859,ACC0352,Dormitory,31.65,8,False,moderate
+ROOM00860,ACC0352,Family Room,198.36,4,False,moderate
+ROOM00861,ACC0352,Single,89.39,1,True,moderate
+ROOM00862,ACC0353,Suite,201.2,3,True,moderate
+ROOM00863,ACC0353,Family Room,129.83,4,True,flexible
+ROOM00864,ACC0353,Double,68.29,2,True,strict
+ROOM00865,ACC0353,Dormitory,21.15,8,False,moderate
+ROOM00866,ACC0354,Family Room,177.71,4,True,flexible
+ROOM00867,ACC0354,Twin,124.3,2,True,strict
+ROOM00868,ACC0355,Dormitory,85.11,8,True,flexible
+ROOM00869,ACC0355,Family Room,566.75,4,True,moderate
+ROOM00870,ACC0356,Single,32.59,1,False,moderate
+ROOM00871,ACC0356,Family Room,75.47,4,True,strict
+ROOM00872,ACC0357,Twin,170.73,2,True,moderate
+ROOM00873,ACC0357,Suite,514.49,3,False,moderate
+ROOM00874,ACC0357,Deluxe Double,252.65,2,True,moderate
+ROOM00875,ACC0357,Dormitory,64.79,8,False,flexible
+ROOM00876,ACC0358,Single,57.83,1,False,flexible
+ROOM00877,ACC0358,Suite,178.63,3,False,flexible
+ROOM00878,ACC0358,Double,82.74,2,True,moderate
+ROOM00879,ACC0358,Family Room,136.27,4,True,flexible
+ROOM00880,ACC0359,Single,65.37,1,False,moderate
+ROOM00881,ACC0360,Suite,424.96,3,True,flexible
+ROOM00882,ACC0361,Twin,327.17,2,False,moderate
+ROOM00883,ACC0361,Double,313.86,2,True,strict
+ROOM00884,ACC0361,Deluxe Double,411.15,2,False,strict
+ROOM00885,ACC0361,Suite,876.31,3,False,flexible
+ROOM00886,ACC0362,Twin,43.66,2,True,moderate
+ROOM00887,ACC0362,Family Room,72.75,4,False,flexible
+ROOM00888,ACC0362,Deluxe Double,69.45,2,False,strict
+ROOM00889,ACC0363,Double,163.74,2,False,strict
+ROOM00890,ACC0363,Dormitory,51.72,8,False,flexible
+ROOM00891,ACC0364,Suite,321.18,3,True,flexible
+ROOM00892,ACC0364,Single,87.16,1,True,moderate
+ROOM00893,ACC0364,Deluxe Double,162.39,2,False,moderate
+ROOM00894,ACC0365,Single,144.6,1,True,moderate
+ROOM00895,ACC0365,Deluxe Double,235.53,2,False,strict
+ROOM00896,ACC0365,Twin,211.1,2,True,strict
+ROOM00897,ACC0365,Family Room,311.24,4,True,flexible
+ROOM00898,ACC0366,Suite,256.72,3,True,flexible
+ROOM00899,ACC0366,Family Room,203.59,4,True,flexible
+ROOM00900,ACC0367,Family Room,215.31,4,True,moderate
+ROOM00901,ACC0367,Single,99.2,1,True,flexible
+ROOM00902,ACC0368,Suite,308.55,3,True,flexible
+ROOM00903,ACC0369,Suite,519.39,3,False,moderate
+ROOM00904,ACC0369,Twin,168.39,2,True,moderate
+ROOM00905,ACC0370,Deluxe Double,460.51,2,False,flexible
+ROOM00906,ACC0370,Single,226.87,1,True,moderate
+ROOM00907,ACC0371,Family Room,520.2,4,False,flexible
+ROOM00908,ACC0371,Twin,360.86,2,True,flexible
+ROOM00909,ACC0372,Deluxe Double,123.67,2,False,flexible
+ROOM00910,ACC0373,Suite,174.84,3,True,flexible
+ROOM00911,ACC0374,Family Room,,4,False,moderate
+ROOM00912,ACC0375,Family Room,75.02,4,False,moderate
+ROOM00913,ACC0375,Double,41.48,2,True,strict
+ROOM00914,ACC0375,Deluxe Double,66.62,2,True,strict
+ROOM00915,ACC0375,Dormitory,13.5,8,True,strict
+ROOM00916,ACC0376,Twin,45.78,2,True,flexible
+ROOM00917,ACC0376,Suite,128.92,3,True,strict
+ROOM00918,ACC0376,Single,34.51,1,True,moderate
+ROOM00919,ACC0377,Twin,172.54,2,True,strict
+ROOM00920,ACC0377,Single,167.68,1,False,moderate
+ROOM00921,ACC0378,Double,50.71,2,True,strict
+ROOM00922,ACC0378,Family Room,69.07,4,True,moderate
+ROOM00923,ACC0379,Twin,163.97,2,True,strict
+ROOM00924,ACC0379,Dormitory,51.46,8,True,moderate
+ROOM00925,ACC0379,Suite,477.12,3,True,flexible
+ROOM00926,ACC0380,Dormitory,87.32,8,False,flexible
+ROOM00927,ACC0380,Deluxe Double,485.49,2,False,flexible
+ROOM00928,ACC0380,Twin,281.41,2,False,flexible
+ROOM00929,ACC0380,Suite,,3,True,flexible
+ROOM00930,ACC0381,Dormitory,50.93,8,False,flexible
+ROOM00931,ACC0381,Suite,458.94,3,True,moderate
+ROOM00932,ACC0381,Single,162.02,1,False,moderate
+ROOM00933,ACC0381,Family Room,276.84,4,True,flexible
+ROOM00934,ACC0382,Twin,106.91,2,False,moderate
+ROOM00935,ACC0383,Double,195.91,2,True,strict
+ROOM00936,ACC0383,Twin,216.8,2,True,flexible
+ROOM00937,ACC0383,Deluxe Double,258.95,2,False,flexible
+ROOM00938,ACC0383,Family Room,312.35,4,False,moderate
+ROOM00939,ACC0384,Family Room,70.45,4,True,flexible
+ROOM00940,ACC0385,Suite,335.26,3,True,strict
+ROOM00941,ACC0385,Dormitory,40.3,8,False,flexible
+ROOM00942,ACC0385,Double,103.44,2,False,strict
+ROOM00943,ACC0386,Suite,807.47,3,False,strict
+ROOM00944,ACC0387,Suite,199.72,3,True,strict
+ROOM00945,ACC0388,Family Room,547.6,4,True,flexible
+ROOM00946,ACC0389,Twin,273.53,2,False,flexible
+ROOM00947,ACC0389,Double,339.52,2,True,moderate
+ROOM00948,ACC0389,Single,253.22,1,True,strict
+ROOM00949,ACC0390,Double,354.6,2,True,moderate
+ROOM00950,ACC0390,Twin,357.77,2,False,strict
+ROOM00951,ACC0390,Suite,687.85,3,False,moderate
+ROOM00952,ACC0390,Single,271.21,1,True,strict
+ROOM00953,ACC0391,Dormitory,106.97,8,True,strict
+ROOM00954,ACC0392,Single,245.68,1,True,moderate
+ROOM00955,ACC0392,Deluxe Double,,2,True,strict
+ROOM00956,ACC0392,Suite,850.24,3,True,flexible
+ROOM00957,ACC0393,Double,47.01,2,True,strict
+ROOM00958,ACC0393,Dormitory,14.56,8,False,moderate
+ROOM00959,ACC0393,Single,40.3,1,False,moderate
+ROOM00960,ACC0394,Single,246.23,1,False,moderate
+ROOM00961,ACC0395,Suite,119.58,3,False,moderate
+ROOM00962,ACC0396,Deluxe Double,241.13,2,False,flexible
+ROOM00963,ACC0396,Family Room,265.71,4,True,moderate
+ROOM00964,ACC0396,Single,172.9,1,True,flexible
+ROOM00965,ACC0397,Twin,338.92,2,False,flexible
+ROOM00966,ACC0397,Single,284.8,1,True,moderate
+ROOM00967,ACC0398,Family Room,68.69,4,False,strict
+ROOM00968,ACC0398,Dormitory,14.09,8,False,flexible
+ROOM00969,ACC0398,Double,39.1,2,True,strict
+ROOM00970,ACC0398,Suite,117.38,3,False,strict
+ROOM00971,ACC0399,Family Room,71.7,4,False,moderate
+ROOM00972,ACC0399,Deluxe Double,59.3,2,True,moderate
+ROOM00973,ACC0399,Twin,40.57,2,False,flexible
+ROOM00974,ACC0400,Twin,43.02,2,False,flexible
+ROOM00975,ACC0400,Deluxe Double,65.24,2,True,strict
+ROOM00976,ACC0400,Single,36.38,1,True,flexible
+ROOM00977,ACC0400,Double,49.58,2,True,flexible
+ROOM00978,ACC0401,Single,174.52,1,True,moderate
+ROOM00979,ACC0401,Deluxe Double,246.88,2,True,flexible
+ROOM00980,ACC0402,Family Room,68.05,4,False,flexible
+ROOM00981,ACC0403,Suite,303.03,3,True,flexible
+ROOM00982,ACC0403,Dormitory,34.97,8,False,flexible
+ROOM00983,ACC0403,Double,136.12,2,False,flexible
+ROOM00984,ACC0404,Family Room,129.77,4,False,strict
+ROOM00985,ACC0405,Suite,840.05,3,False,moderate
+ROOM00986,ACC0405,Twin,338.16,2,False,flexible
+ROOM00987,ACC0405,Dormitory,85.62,8,True,moderate
+ROOM00988,ACC0406,Suite,310.58,3,True,moderate
+ROOM00989,ACC0407,Single,37.17,1,True,strict
+ROOM00990,ACC0407,Twin,45.36,2,False,flexible
+ROOM00991,ACC0407,Deluxe Double,53.98,2,False,strict
+ROOM00992,ACC0408,Dormitory,23.24,8,False,moderate
+ROOM00993,ACC0409,Family Room,69.0,4,True,strict
+ROOM00994,ACC0410,Twin,299.33,2,False,moderate
+ROOM00995,ACC0410,Suite,914.61,3,True,flexible
+ROOM00996,ACC0410,Deluxe Double,478.62,2,False,strict
+ROOM00997,ACC0410,Single,293.83,1,False,moderate
+ROOM00998,ACC0411,Deluxe Double,511.22,2,False,strict
+ROOM00999,ACC0411,Family Room,572.89,4,True,strict
+ROOM01000,ACC0412,Double,291.95,2,False,strict
+ROOM01001,ACC0413,Single,133.23,1,False,strict
+ROOM01002,ACC0413,Dormitory,64.09,8,False,flexible
+ROOM01003,ACC0413,Suite,482.95,3,True,flexible
+ROOM01004,ACC0414,Deluxe Double,249.2,2,False,flexible
+ROOM01005,ACC0414,Suite,521.0,3,False,strict
+ROOM01006,ACC0415,Suite,275.21,3,True,flexible
+ROOM01007,ACC0415,Dormitory,33.44,8,False,flexible
+ROOM01008,ACC0415,Deluxe Double,175.75,2,False,moderate
+ROOM01009,ACC0416,Suite,208.69,3,True,flexible
+ROOM01010,ACC0416,Family Room,138.17,4,False,flexible
+ROOM01011,ACC0417,Dormitory,55.91,8,False,strict
+ROOM01012,ACC0417,Suite,501.49,3,True,moderate
+ROOM01013,ACC0417,Deluxe Double,267.0,2,True,moderate
+ROOM01014,ACC0418,Dormitory,21.45,8,False,strict
+ROOM01015,ACC0418,Single,57.0,1,True,flexible
+ROOM01016,ACC0419,Twin,276.68,2,False,strict
+ROOM01017,ACC0419,Suite,833.35,3,True,strict
+ROOM01018,ACC0419,Deluxe Double,406.85,2,True,flexible
+ROOM01019,ACC0420,Dormitory,106.73,8,False,moderate
+ROOM01020,ACC0420,Twin,337.8,2,False,flexible
+ROOM01021,ACC0421,Deluxe Double,399.21,2,False,moderate
+ROOM01022,ACC0421,Double,346.77,2,False,moderate
+ROOM01023,ACC0421,Single,288.33,1,True,flexible
+ROOM01024,ACC0422,Double,41.24,2,True,strict
+ROOM01025,ACC0422,Dormitory,13.96,8,True,moderate
+ROOM01026,ACC0423,Single,254.43,1,False,strict
+ROOM01027,ACC0423,Deluxe Double,429.53,2,False,strict
+ROOM01028,ACC0423,Double,322.22,2,False,flexible
+ROOM01029,ACC0423,Family Room,544.24,4,True,strict
+ROOM01030,ACC0424,Double,106.63,2,True,strict
+ROOM01031,ACC0425,Twin,109.55,2,True,moderate
+ROOM01032,ACC0425,Double,126.87,2,True,flexible
+ROOM01033,ACC0426,Deluxe Double,167.21,2,False,flexible
+ROOM01034,ACC0427,Single,69.63,1,True,moderate
+ROOM01035,ACC0427,Deluxe Double,99.2,2,False,flexible
+ROOM01036,ACC0428,Twin,199.55,2,True,flexible
+ROOM01037,ACC0429,Dormitory,21.73,8,False,flexible
+ROOM01038,ACC0429,Double,70.18,2,False,strict
+ROOM01039,ACC0430,Twin,206.01,2,True,strict
+ROOM01040,ACC0430,Double,194.0,2,True,strict
+ROOM01041,ACC0430,Dormitory,61.5,8,True,strict
+ROOM01042,ACC0431,Twin,134.46,2,True,strict
+ROOM01043,ACC0431,Double,105.55,2,True,strict
+ROOM01044,ACC0432,Twin,44.19,2,True,flexible
+ROOM01045,ACC0432,Family Room,79.23,4,False,moderate
+ROOM01046,ACC0432,Dormitory,12.34,8,True,moderate
+ROOM01047,ACC0432,Double,39.77,2,False,flexible
+ROOM01048,ACC0433,Single,38.83,1,False,strict
+ROOM01049,ACC0433,Dormitory,14.4,8,True,moderate
+ROOM01050,ACC0433,Double,44.92,2,False,moderate
+ROOM01051,ACC0433,Suite,111.05,3,False,strict
+ROOM01052,ACC0434,Double,91.64,2,False,flexible
+ROOM01053,ACC0434,Dormitory,26.57,8,False,strict
+ROOM01054,ACC0434,Suite,192.05,3,True,strict
+ROOM01055,ACC0434,Twin,79.8,2,True,moderate
+ROOM01056,ACC0435,Dormitory,85.73,8,False,strict
+ROOM01057,ACC0435,Family Room,525.91,4,True,strict
+ROOM01058,ACC0435,Single,288.66,1,True,flexible
+ROOM01059,ACC0435,Deluxe Double,429.68,2,True,moderate
+ROOM01060,ACC0436,Dormitory,50.55,8,False,strict
+ROOM01061,ACC0436,Suite,474.87,3,False,strict
+ROOM01062,ACC0437,Twin,51.58,2,False,flexible
+ROOM01063,ACC0437,Suite,121.54,3,True,flexible
+ROOM01064,ACC0437,Dormitory,12.49,8,False,flexible
+ROOM01065,ACC0437,Family Room,74.77,4,True,flexible
+ROOM01066,ACC0438,Family Room,62.34,4,True,moderate
+ROOM01067,ACC0439,Double,115.77,2,False,flexible
+ROOM01068,ACC0440,Dormitory,103.49,8,False,moderate
+ROOM01069,ACC0440,Deluxe Double,407.94,2,False,moderate
+ROOM01070,ACC0440,Single,256.37,1,False,strict
+ROOM01071,ACC0441,Deluxe Double,54.15,2,False,flexible
+ROOM01072,ACC0442,Suite,111.14,3,True,flexible
+ROOM01073,ACC0442,Twin,45.76,2,False,strict
+ROOM01074,ACC0442,Deluxe Double,56.65,2,False,flexible
+ROOM01075,ACC0442,Dormitory,12.74,8,False,moderate
+ROOM01076,ACC0443,Dormitory,37.89,8,False,moderate
+ROOM01077,ACC0444,Dormitory,23.22,8,False,strict
+ROOM01078,ACC0444,Single,73.04,1,False,moderate
+ROOM01079,ACC0445,Single,31.09,1,False,moderate
+ROOM01080,ACC0445,Deluxe Double,68.85,2,True,strict
+ROOM01081,ACC0445,Dormitory,12.86,8,True,moderate
+ROOM01082,ACC0446,Twin,104.03,2,True,flexible
+ROOM01083,ACC0446,Suite,276.12,3,False,strict
+ROOM01084,ACC0446,Deluxe Double,147.08,2,True,moderate
+ROOM01085,ACC0447,Twin,108.11,2,False,flexible
+ROOM01086,ACC0448,Family Room,476.15,4,False,strict
+ROOM01087,ACC0448,Suite,685.34,3,False,moderate
+ROOM01088,ACC0448,Dormitory,98.03,8,False,strict
+ROOM01089,ACC0448,Deluxe Double,393.93,2,False,flexible
+ROOM01090,ACC0449,Twin,45.04,2,False,flexible
+ROOM01091,ACC0449,Suite,116.38,3,False,moderate
+ROOM01092,ACC0450,Suite,220.84,3,True,strict
+ROOM01093,ACC0450,Family Room,117.02,4,False,flexible

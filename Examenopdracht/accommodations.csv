@@ -1,0 +1,451 @@
+accommodation_id,accommodation_name,accommodation_type,category,city,country_code,country,total_rooms,host_since,is_active
+ACC0001,The Green Hotel,Hotel,1,Strasbourg,FR,France,75,2016-05-16,True
+ACC0002,The Royal Resort,Ressort,5,VIENNA,AT,Austria,156,2017-05-14,True
+ACC0003,The Golden Apartment,Apartment,2,Rome,IT,Italy,159,2015-02-24,True
+ACC0004,The Old Town Resort,Resort,5,Malaga,ES,Spain,61,2017-07-08,True
+ACC0005,The Green Boutique Hotel,Boutique Hotel,2,Amsterdam,NL,Netherlands,113,2016-11-27,True
+ACC0006,The Royal Boutique Hotel,Boutique Hotel,3,Rotterdam,NL,Netherlands,28,2017-02-17,True
+ACC0007,The Cozy Bed & Breakfast,Bed & Breakfast,3,Ghent,Belgium,Belgium,16,2019-02-03,True
+ACC0008,The Golden Villa,Villa,1,London,GB,United Kingdom,80,2019-08-26,True
+ACC0009,The Green Bed & Breakfast,Bed & Breakfast,2,Seville,ES,Spain,22,2015-04-04,True
+ACC0010,The Sunny Hotel,Hotel,2,Venice,IT,Italy,30,2017-02-17,True
+ACC0011,The Garden Apartment,Apartment,3,Ghent,BE,Belgium,58,2018-10-04,True
+ACC0012,The Golden Bed & Breakfast,Bed & Breakfast,2,Vienna,AT,Austria,191,2016-05-16,True
+ACC0013,The City Hostel,Hostle,5,Birmingham,GB,United Kingdom,180,2016-10-26,True
+ACC0014,The Cozy Apartment,Apartment,1,Amsterdam,NL,Netherlands,85,2017-04-01,True
+ACC0015,The City Bed & Breakfast,Bed & Breakfast,3,Rotterdam,NL,Netherlands,172,2017-10-19,True
+ACC0016,The Central Apartment,Apartment,3,Utrecht,NL,Netherlands,68,2019-03-06,True
+ACC0017,The Old Town Resort,Resort,5,Marseille,FR,France,154,2017-03-28,True
+ACC0018,The Royal Bed & Breakfast,Bed & Breakfast,4,Munich,DE,Germany,198,2015-04-07,True
+ACC0019,The Cozy Resort,Resort,2,Munich,DE,Germany,179,2017-05-14,True
+ACC0020,The Riverside Villa,Villa,5,Nice,FR,France,140,2016-05-29,False
+ACC0021,The Blue Resort,Resort,1,Madrid,Spain,Spain,142,2019-03-18,True
+ACC0022,The Old Town Hotel,Hotel,3,Ghent,BE,Belgium,45,2017-07-18,True
+ACC0023,The Golden Resort,Ressort,3,Strasbourg,France,France,200,2016-01-01,True
+ACC0024,The Sunny Boutique Hotel,Boutique Hotel,3,Paris,FR,France,168,2017-11-05,True
+ACC0025,The Golden Hostel,Hostel,2,Munich,DE,Germany,140,2020-02-25,True
+ACC0026,The Royal Villa,Villa,1,VENICE,IT,Italy,97,2019-12-05,False
+ACC0027,The City Apartment,Apartment,1,The Hague,NL,Netherlands,150,2020-04-23,True
+ACC0028,The Cozy Villa,Villa,1,Stuttgart,DE,Germany,141,2019-04-18,True
+ACC0029,The Central Villa,Villa,5,Malaga,ES,Spain,72,2017-12-16,True
+ACC0030,The Cozy Apartment,Apartment,5,Bruges,BE,Belgium,191,2018-11-13,True
+ACC0031,The Riverside Villa,Villa,3,Seville,ES,Spain,137,2017-07-13,True
+ACC0032,The Grand Hotel,Hotel,3,Rotterdam,NL,Netherlands,155,2018-02-08,True
+ACC0033,The Green Hotel,Hotel,1,Antwerp,BE,Belgium,166,2015-05-01,True
+ACC0034,The Royal Boutique Hotel,Boutique Hotel,3,Vienna,AT,Austria,136,2016-05-02,True
+ACC0035,The Central Apartment,Apartment,5,Graz,AT,Austria,190,2020-03-30,True
+ACC0036,The Cozy Villa,Villa,2,Naples,IT,Italy,126,2019-07-12,True
+ACC0037,The Garden Hotel,Hotel,4,PARIS,France,France,113,2017-04-21,True
+ACC0038,The Grand Resort,Resort,1,Brussels,BE,Belgium,108,2019-01-31,True
+ACC0039,The City Apartment,Apartment,2,Madrid,ES,Spain,142,2017-07-07,True
+ACC0040,The City Hostel,Hostel,4,Munich,DE,Germany,24,2017-06-26,True
+ACC0041,The Blue Hotel,Hotel,1,Liège,BE,Belgium,143,2019-09-09,True
+ACC0042,The Central Boutique Hotel,Boutique Hotel,2,Berlin,DE,Germany,109,2017-09-21,True
+ACC0043,The Old Town Hotel,Hotel,2,Bruges,BE,Belgium,5,2017-03-10,True
+ACC0044,The Green Hostel,Hostel,4,Coimbra,PT,Portugal,192,2019-05-24,True
+ACC0045,The Park Apartment,Apartment,2,Utrecht,NL,Netherlands,60,2020-06-06,True
+ACC0046,The Green Bed & Breakfast,Bed & Breakfast,1,MALAGA,ES,Spain,85,2015-04-28,True
+ACC0047,The Central Bed & Breakfast,Bed & Breakfast,5,Nice,FR,France,19,2020-05-21,True
+ACC0048,The Royal Hotel,Hotel,5,Munich,DE,Germany,177,2019-11-01,True
+ACC0049,The Silver Bed & Breakfast,Bed & Breakfast,2,Berlin,DE,Germany,157,2015-03-23,True
+ACC0050,The Silver Resort,Resort,5,Utrecht,NL,Netherlands,138,2016-10-09,False
+ACC0051,The City Resort,Resort,3,Salzburg,AT,Austria,72,2017-03-21,True
+ACC0052,The Garden Hostel,Hostle,4,Turin,IT,Italy,197,2020-03-31,True
+ACC0053,The Royal Bed & Breakfast,Bed & Breakfast,5,graz,AT,Austria,23,2018-01-06,True
+ACC0054,The Royal Apartment,Apartment,3,Faro,PT,Portugal,67,2017-01-26,True
+ACC0055,The Green Boutique Hotel,Boutique Hotel,5,Valencia,ES,Spain,82,2018-06-06,False
+ACC0056,The Park Resort,Resort,5,Lisbon,PT,Portugal,174,2015-08-01,False
+ACC0057,The Royal Hostel,Hostel,1,Antwerp,BE,Belgium,195,2018-02-07,True
+ACC0058,The Green Bed & Breakfast,Bed & Breakfast,2,THE HAGUE,NL,Netherlands,92,2016-02-21,True
+ACC0059,The Park Bed & Breakfast,Bed & Breakfast,4,Ghent,BE,Belgium,18,2015-07-09,True
+ACC0060,The Garden Hotel,Hotel,1,Marseille,FR,France,38,2018-07-28,False
+ACC0061,The Golden Resort,Resort,4,Lyon,FR,France,185,2017-05-25,True
+ACC0062,The Golden Hotel,Hotel,2,Paris,FR,France,14,2019-09-06,True
+ACC0063,The Central Apartment,Apartment,4,Bristol,GB,United Kingdom,15,2016-09-23,True
+ACC0064,The Blue Hostel,Hostel,2,Paris,FR,France,68,2018-09-27,True
+ACC0065,The Silver Boutique Hotel,Boutique Hotel,4,Bordeaux,France,France,196,2015-11-13,False
+ACC0066,The Cozy Boutique Hotel,Boutique Hotel,2,Munich,Germany,Germany,50,2019-12-11,True
+ACC0067,The Cozy Resort,Resort,3,antwerp,BE,Belgium,110,2019-07-01,True
+ACC0068,The Park Boutique Hotel,Boutique Hotel,2,Turin,IT,Italy,45,2019-06-01,True
+ACC0069,The Sunny Boutique Hotel,Boutique Hotel,1,Bruges,BE,Belgium,125,2016-03-31,True
+ACC0070,The Sunny Hostel,Hostel,3,Bern,CH,Switzerland,63,2016-04-01,True
+ACC0071,The Park Villa,Villa,3,Milan,IT,Italy,22,2020-06-03,True
+ACC0072,The Old Town Resort,Resort,5,The Hague,NL,Netherlands,178,2019-09-24,True
+ACC0073,The Central Hotel,Hotel,3,brussels,BE,Belgium,153,2020-05-25,False
+ACC0074,The Old Town Hotel,Hotel,5,London,GB,United Kingdom,93,2019-02-01,True
+ACC0075,The Royal Bed & Breakfast,Bed & Breakfast,5,FLORENCE,IT,Italy,103,2020-01-17,True
+ACC0076,The Grand Hotel,Hotel,4,Venice,IT,Italy,138,2020-03-10,True
+ACC0077,The Garden Resort,Resort,2,turin,IT,Italy,115,2015-05-24,False
+ACC0078,The Blue Bed & Breakfast,Bed & Breakfast,3,GHENT,BE,Belgium,36,2019-01-14,False
+ACC0079,The Garden Hostel,Hostel,4,Bordeaux,FR,France,108,2018-11-28,True
+ACC0080,The Blue Apartment,Apartment,4,Antwerp,BE,Belgium,102,2018-10-19,True
+ACC0081,The Park Bed & Breakfast,Bed & Breakfast,5,Edinburgh,GB,United Kingdom,108,2018-01-27,True
+ACC0082,The Old Town Hostel,Hostel,2,Seville,ES,Spain,153,2018-05-27,True
+ACC0083,The Blue Villa,Villa,4,Nice,FR,France,59,2017-11-12,True
+ACC0084,The Park Resort,Resort,1,Antwerp,BE,Belgium,136,2018-09-21,True
+ACC0085,The Blue Hotel,Hotel,2,Marseille,FR,France,84,2016-04-05,True
+ACC0086,The City Hotel,Hotel,1,lyon,FR,France,126,2018-06-05,True
+ACC0087,The Blue Villa,Villa,4,Rome,IT,Italy,152,2016-02-03,True
+ACC0088,The City Villa,Villa,4,Valencia,ES,Spain,42,2018-09-05,True
+ACC0089,The City Boutique Hotel,Boutique Hotel,4,London,GB,United Kingdom,50,2019-07-05,False
+ACC0090,The Golden Villa,Villa,1,Cologne,DE,Germany,68,2020-02-22,True
+ACC0091,The Blue Apartment,Appartment,4,Bruges,BE,Belgium,140,2018-02-18,True
+ACC0092,The Old Town Bed & Breakfast,Bed & Breakfast,5,Florence,IT,Italy,145,2017-07-02,True
+ACC0093,The Riverside Boutique Hotel,Boutique Hotel,4,Turin,IT,Italy,71,2019-03-20,True
+ACC0094,The Riverside Hostel,Hostle,5,Stuttgart,DE,Germany,165,2016-05-04,True
+ACC0095,The City Resort,Resort,3,Rome,IT,Italy,74,2016-11-18,True
+ACC0096,The Central Hotel,Hotel,2,Cologne,DE,Germany,64,2017-02-23,True
+ACC0097,The Old Town Apartment,Apartment,1,Stuttgart,DE,Germany,109,2016-11-08,True
+ACC0098,The Sunny Hotel,Hotel,2,Frankfurt,DE,Germany,112,2017-03-08,False
+ACC0099,The Sunny Resort,Ressort,1,Liège,BE,Belgium,200,2018-03-25,True
+ACC0100,The Cozy Hostel,Hostel,3,Brussels,BE,Belgium,104,2019-10-14,True
+ACC0101,The Cozy Bed & Breakfast,Bed & Breakfast,5,Bruges,BE,Belgium,159,2020-01-13,True
+ACC0102,The Riverside Hostel,Hostel,4,Barcelona,ES,Spain,12,2017-03-07,True
+ACC0103,The Green Boutique Hotel,Boutique Hotel,4,Strasbourg,FR,France,47,2019-09-18,True
+ACC0104,The Grand Bed & Breakfast,Bed & Breakfast,5,Munich,DE,Germany,105,2018-04-27,True
+ACC0105,The Central Hotel,Hotel,4,lisbon,PT,Portugal,123,2016-01-08,True
+ACC0106,The Riverside Hostel,Hostel,2,Utrecht,NL,Netherlands,88,2016-11-22,True
+ACC0107,The Park Hostel,Hostel,4,Nice,FR,France,25,2017-08-21,True
+ACC0108,The City Hotel,Hotel,3,Naples,Italy,Italy,171,2015-05-21,True
+ACC0109,The City Boutique Hotel,Boutique Hotel,1,Amsterdam,NL,Netherlands,56,2019-09-15,True
+ACC0110,The Riverside Apartment,Apartment,2,Antwerp,BE,Belgium,176,2015-08-23,True
+ACC0111,The Cozy Villa,Villa,3,Lyon,FR,France,99,2015-12-10,True
+ACC0112,The Park Boutique Hotel,Boutique Hotel,2,Amsterdam,NL,Netherlands,32,2018-03-31,True
+ACC0113,The Old Town Bed & Breakfast,Bed & Breakfast,4,Faro,PT,Portugal,188,2016-02-11,True
+ACC0114,The Royal Boutique Hotel,Boutique Hotel,2,TURIN,Italy,Italy,183,2019-05-02,True
+ACC0115,The Cozy Bed & Breakfast,Bed & Breakfast,1,Malaga,ES,Spain,149,2019-05-22,True
+ACC0116,The Royal Villa,Villa,3,bristol,GB,United Kingdom,134,2018-08-19,True
+ACC0117,The Royal Boutique Hotel,Boutique Hotel,4,Florence,IT,Italy,115,2020-05-21,True
+ACC0118,The Old Town Resort,Resort,2,Utrecht,NL,Netherlands,50,2019-02-11,True
+ACC0119,The Cozy Bed & Breakfast,Bed & Breakfast,5,Faro,PT,Portugal,128,2017-08-10,True
+ACC0120,The Garden Bed & Breakfast,Bed & Breakfast,3,STUTTGART,DE,Germany,67,2019-08-29,False
+ACC0121,The Cozy Villa,Villa,2,Venice,IT,Italy,123,2018-03-13,True
+ACC0122,The Riverside Hostel,Hostel,1,Coimbra,PT,Portugal,88,2016-01-08,True
+ACC0123,The Garden Boutique Hotel,Boutique Hotel,3,Marseille,FR,France,76,2019-12-08,True
+ACC0124,The Golden Bed & Breakfast,Bed & Breakfast,1,Ghent,BE,Belgium,53,2015-06-25,True
+ACC0125,The Cozy Villa,Villa,5,Utrecht,NL,Netherlands,66,2018-11-15,True
+ACC0126,The Cozy Villa,Villa,4,Stuttgart,DE,Germany,9,2015-07-10,True
+ACC0127,The Park Resort,Resort,2,Birmingham,GB,United Kingdom,174,2018-04-06,True
+ACC0128,The Old Town Bed & Breakfast,Bed & Breakfast,3,Bristol,GB,United Kingdom,195,2018-02-01,True
+ACC0129,The Park Hostel,Hostel,3,Bruges,BE,Belgium,64,2015-09-05,True
+ACC0130,The Cozy Hotel,Hotel,5,Hamburg,DE,Germany,181,2016-01-15,True
+ACC0131,The Green Villa,Villa,3,STRASBOURG,FR,France,155,2020-06-23,True
+ACC0132,The Sunny Hostel,Hostel,1,Eindhoven,NL,Netherlands,54,2016-08-29,True
+ACC0133,The Green Hostel,Hostle,1,Antwerp,BE,Belgium,141,2015-09-17,True
+ACC0134,The Green Bed & Breakfast,Bed & Breakfast,3,paris,FR,France,37,2018-07-30,True
+ACC0135,The Silver Hotel,Hotel,1,Graz,AT,Austria,77,2017-08-19,True
+ACC0136,The Park Apartment,Apartment,1,Marseille,FR,France,127,2015-08-22,True
+ACC0137,The Silver Villa,Villa,1,Frankfurt,DE,Germany,166,2018-11-06,True
+ACC0138,The Park Boutique Hotel,Boutique Hotel,5,Milan,IT,Italy,26,2016-05-23,True
+ACC0139,The Cozy Bed & Breakfast,Bed & Breakfast,5,NICE,FR,France,163,2016-04-07,True
+ACC0140,The Park Villa,Villa,4,Bern,CH,Switzerland,155,2017-05-28,True
+ACC0141,The Cozy Bed & Breakfast,Bed & Breakfast,1,Vienna,AT,Austria,58,2018-07-05,True
+ACC0142,The Central Apartment,Apartment,2,Amsterdam,NL,Netherlands,146,2015-06-03,True
+ACC0143,The Riverside Villa,Villa,5,Frankfurt,DE,Germany,79,2015-03-08,True
+ACC0144,The Royal Hostel,Hostel,4,Strasbourg,FR,France,180,2016-04-23,False
+ACC0145,The Old Town Bed & Breakfast,Bed & Breakfast,2,Strasbourg,FR,France,34,2018-01-20,True
+ACC0146,The Royal Hostel,Hostel,2,Antwerp,BE,Belgium,20,2015-12-06,True
+ACC0147,The Park Resort,Resort,5,Bilbao,ES,Spain,117,2015-09-12,True
+ACC0148,The Park Resort,Resort,4,HAMBURG,DE,Germany,133,2018-01-10,True
+ACC0149,The Old Town Bed & Breakfast,Bed & Breakfast,1,Brussels,BE,Belgium,193,2016-10-22,True
+ACC0150,The Blue Hotel,Hotel,2,PARIS,France,France,152,2018-04-17,False
+ACC0151,The Cozy Bed & Breakfast,Bed & Breakfast,1,Faro,PT,Portugal,198,2015-12-25,True
+ACC0152,The Silver Hostel,Hostel,2,Utrecht,NL,Netherlands,116,2018-07-24,True
+ACC0153,The Old Town Villa,Villa,3,brussels,BE,Belgium,90,2016-10-19,True
+ACC0154,The Green Hostel,Hostel,4,Munich,DE,Germany,131,2016-08-13,True
+ACC0155,The Grand Boutique Hotel,Boutique Hotel,5,Bern,CH,Switzerland,121,2015-06-30,True
+ACC0156,The Sunny Hotel,Hotel,4,The Hague,NL,Netherlands,136,2019-08-17,False
+ACC0157,The Riverside Boutique Hotel,Boutique Hotel,5,Malaga,ES,Spain,110,2015-04-22,True
+ACC0158,The Blue Bed & Breakfast,Bed & Breakfast,4,Venice,IT,Italy,118,2019-04-06,True
+ACC0159,The Park Bed & Breakfast,Bed & Breakfast,2,The Hague,NL,Netherlands,117,2019-12-09,True
+ACC0160,The Cozy Hotel,Hotel,5,Rome,IT,Italy,66,2018-12-24,True
+ACC0161,The Old Town Hotel,Hotel,5,Bordeaux,France,France,28,2016-04-05,False
+ACC0162,The Blue Villa,Villa,1,Madrid,ES,Spain,44,2017-10-17,False
+ACC0163,The Old Town Bed & Breakfast,Bed & Breakfast,3,Seville,ES,Spain,128,2017-08-25,True
+ACC0164,The City Apartment,Apartment,4,cologne,DE,Germany,158,2017-11-06,True
+ACC0165,The Park Boutique Hotel,Boutique Hotel,1,Antwerp,BE,Belgium,111,2016-11-27,False
+ACC0166,The Park Hostel,Hostel,1,bristol,GB,United Kingdom,190,2016-09-03,True
+ACC0167,The Sunny Resort,Resort,4,Bordeaux,FR,France,43,2017-07-03,True
+ACC0168,The Cozy Hostel,Hostel,5,The Hague,NL,Netherlands,144,2017-02-11,True
+ACC0169,The Green Boutique Hotel,Boutique Hotel,2,Ghent,BE,Belgium,66,2018-03-17,True
+ACC0170,The Green Hotel,Hotel,3,Valencia,ES,Spain,126,2018-12-15,False
+ACC0171,The Riverside Villa,Villa,2,Valencia,ES,Spain,14,2015-09-16,True
+ACC0172,The Sunny Hostel,Hostel,1,Liège,BE,Belgium,117,2015-07-24,True
+ACC0173,The Old Town Hotel,Hotel,2,FRANKFURT,DE,Germany,172,2020-06-09,True
+ACC0174,The Garden Boutique Hotel,Boutique Hotel,3,UTRECHT,NL,Netherlands,164,2018-11-19,True
+ACC0175,The Sunny Boutique Hotel,Boutique Hotel,3,Madrid,ES,Spain,177,2019-10-26,True
+ACC0176,The Sunny Resort,Resort,4,The Hague,NL,Netherlands,143,2015-03-15,True
+ACC0177,The City Resort,Resort,3,Milan,IT,Italy,196,2015-07-05,True
+ACC0178,The Riverside Boutique Hotel,Boutique Hotel,1,Paris,FR,France,47,2018-11-22,True
+ACC0179,The Cozy Hotel,Hotel,3,Vienna,Austria,Austria,19,2016-08-23,True
+ACC0180,The Golden Apartment,Apartment,2,Bruges,BE,Belgium,110,2018-03-05,True
+ACC0181,The Royal Apartment,Apartment,2,Lyon,FR,France,161,2019-11-19,True
+ACC0182,The Central Villa,Villa,5,Antwerp,BE,Belgium,64,2017-08-02,True
+ACC0183,The Cozy Hostel,Hostel,1,Coimbra,PT,Portugal,124,2020-01-20,True
+ACC0184,The Riverside Apartment,Apartment,1,Bristol,GB,United Kingdom,93,2018-04-18,True
+ACC0185,The Riverside Resort,Resort,3,Utrecht,NL,Netherlands,82,2016-02-12,False
+ACC0186,The Old Town Hotel,Hotel,2,Valencia,ES,Spain,151,2017-01-05,True
+ACC0187,The Park Hotel,Hotel,4,Manchester,GB,United Kingdom,7,2018-03-05,True
+ACC0188,The Green Hotel,Hotel,5,Stuttgart,DE,Germany,132,2019-09-02,False
+ACC0189,The Silver Boutique Hotel,Boutique Hotel,2,Hamburg,DE,Germany,95,2016-03-24,True
+ACC0190,The Blue Hostel,Hostel,2,Eindhoven,NL,Netherlands,29,2020-01-25,True
+ACC0191,The Grand Hostel,Hostle,4,Brussels,Belgium,Belgium,153,2017-01-17,True
+ACC0192,The Green Hostel,Hostel,3,Lisbon,PT,Portugal,111,2015-12-26,True
+ACC0193,The Park Bed & Breakfast,Bed & Breakfast,5,Faro,PT,Portugal,47,2016-06-10,False
+ACC0194,The Green Boutique Hotel,Boutique Hotel,3,Valencia,ES,Spain,91,2019-07-06,True
+ACC0195,The Sunny Apartment,Apartment,2,Paris,FR,France,178,2019-01-23,True
+ACC0196,The Garden Boutique Hotel,Boutique Hotel,5,Nice,FR,France,28,2019-06-08,True
+ACC0197,The Riverside Bed & Breakfast,Bed & Breakfast,1,Venice,IT,Italy,99,2018-10-09,True
+ACC0198,The Sunny Bed & Breakfast,Bed & Breakfast,4,Faro,PT,Portugal,168,2020-04-09,True
+ACC0199,The Silver Villa,Villa,1,edinburgh,GB,United Kingdom,148,2016-11-02,False
+ACC0200,The Blue Resort,Resort,1,Milan,IT,Italy,123,2020-02-06,True
+ACC0201,The Central Villa,Villa,1,MALAGA,ES,Spain,16,2020-04-21,True
+ACC0202,The City Hotel,Hotel,1,Bruges,BE,Belgium,142,2015-10-05,True
+ACC0203,The Old Town Resort,Resort,5,The Hague,NL,Netherlands,155,2019-03-01,True
+ACC0204,The Sunny Resort,Resort,1,Coimbra,PT,Portugal,130,2018-06-14,True
+ACC0205,The City Hotel,Hotel,3,Seville,ES,Spain,118,2017-06-29,False
+ACC0206,The Golden Hotel,Hotel,3,Ghent,BE,Belgium,170,2017-01-04,True
+ACC0207,The Sunny Apartment,Apartment,1,Ghent,BE,Belgium,121,2015-07-07,True
+ACC0208,The Grand Resort,Resort,5,Malaga,ES,Spain,17,2019-05-31,True
+ACC0209,The City Boutique Hotel,Boutique Hotel,5,Antwerp,BE,Belgium,22,2019-08-27,True
+ACC0210,The Sunny Bed & Breakfast,Bed & Breakfast,2,Rotterdam,NL,Netherlands,64,2016-11-03,True
+ACC0211,The Sunny Hotel,Hotel,3,Cologne,DE,Germany,42,2015-09-24,True
+ACC0212,The Central Hotel,Hotel,1,Milan,IT,Italy,8,2017-01-03,True
+ACC0213,The Grand Bed & Breakfast,Bed & Breakfast,3,Barcelona,ES,Spain,49,2016-06-27,True
+ACC0214,The Green Bed & Breakfast,Bed & Breakfast,1,Utrecht,NL,Netherlands,21,2017-09-02,True
+ACC0215,The Royal Bed & Breakfast,Bed & Breakfast,5,Venice,IT,Italy,120,2017-10-28,True
+ACC0216,The Park Hotel,Hotel,5,Eindhoven,NL,Netherlands,122,2018-08-10,False
+ACC0217,The Old Town Villa,Villa,4,Paris,FR,France,180,2015-08-10,True
+ACC0218,The Garden Hotel,Hotel,1,Florence,IT,Italy,160,2015-10-31,True
+ACC0219,The Golden Bed & Breakfast,Bed & Breakfast,5,Seville,ES,Spain,187,2016-10-27,True
+ACC0220,The Riverside Bed & Breakfast,Bed & Breakfast,3,Bristol,GB,United Kingdom,134,2018-05-24,True
+ACC0221,The Green Hotel,Hotel,5,Malaga,ES,Spain,60,2017-05-30,True
+ACC0222,The Sunny Villa,Villa,3,Munich,DE,Germany,121,2017-03-27,True
+ACC0223,The Garden Hostel,Hostel,4,Brussels,BE,Belgium,175,2016-06-06,True
+ACC0224,The Royal Resort,Resort,4,Lyon,FR,France,28,2019-08-31,True
+ACC0225,The Cozy Hotel,Hotel,3,Utrecht,NL,Netherlands,38,2018-02-13,True
+ACC0226,The Blue Bed & Breakfast,Bed & Breakfast,3,Eindhoven,NL,Netherlands,36,2017-04-21,True
+ACC0227,The Park Boutique Hotel,Boutique Hotel,1,bern,CH,Switzerland,158,2016-10-01,True
+ACC0228,The Central Bed & Breakfast,Bed & Breakfast,2,Bordeaux,FR,France,173,2017-09-14,True
+ACC0229,The Garden Hostel,Hostel,5,Lisbon,PT,Portugal,34,2019-04-11,True
+ACC0230,The Sunny Boutique Hotel,Boutique Hotel,4,Barcelona,ES,Spain,148,2020-06-18,True
+ACC0231,The Grand Bed & Breakfast,Bed & Breakfast,5,Naples,IT,Italy,160,2020-03-17,True
+ACC0232,The Central Hostel,Hostel,1,Stuttgart,DE,Germany,74,2018-12-10,True
+ACC0233,The Central Hostel,Hostel,1,Seville,ES,Spain,41,2018-03-05,True
+ACC0234,The Royal Apartment,Apartment,1,Berlin,DE,Germany,196,2017-12-22,True
+ACC0235,The Central Villa,Villa,3,Utrecht,NL,Netherlands,99,2016-09-30,True
+ACC0236,The Grand Bed & Breakfast,Bed & Breakfast,1,Naples,IT,Italy,44,2015-11-19,True
+ACC0237,The Park Resort,Resort,1,Paris,FR,France,118,2018-09-17,True
+ACC0238,The Park Villa,Villa,4,Liège,BE,Belgium,60,2019-03-27,True
+ACC0239,The Park Villa,Villa,1,Seville,ES,Spain,178,2018-10-21,True
+ACC0240,The Grand Resort,Resort,3,Eindhoven,NL,Netherlands,61,2017-03-20,False
+ACC0241,The Park Hotel,Hotel,2,Vienna,AT,Austria,59,2019-04-21,True
+ACC0242,The Royal Hostel,Hostel,3,Innsbruck,AT,Austria,6,2017-10-15,True
+ACC0243,The Golden Apartment,Appartment,4,Porto,PT,Portugal,185,2016-04-16,True
+ACC0244,The Royal Boutique Hotel,Boutique Hotel,3,Strasbourg,FR,France,106,2019-10-31,True
+ACC0245,The Royal Hotel,Hotel,4,Bruges,BE,Belgium,85,2018-03-25,True
+ACC0246,The Park Resort,Resort,4,Coimbra,PT,Portugal,34,2017-04-09,True
+ACC0247,The Riverside Apartment,Apartment,5,Hamburg,DE,Germany,181,2020-02-27,True
+ACC0248,The City Boutique Hotel,Boutique Hotel,1,Graz,AT,Austria,116,2018-04-21,True
+ACC0249,The Green Villa,Villa,3,Vienna,AT,Austria,91,2016-03-29,True
+ACC0250,The Blue Hotel,Hotel,5,Edinburgh,GB,United Kingdom,34,2017-12-22,True
+ACC0251,The City Hostel,Hostel,2,Marseille,FR,France,31,2015-10-27,True
+ACC0252,The Cozy Bed & Breakfast,Bed & Breakfast,2,Lyon,FR,France,199,2018-09-04,True
+ACC0253,The Cozy Villa,Villa,5,Birmingham,GB,United Kingdom,153,2017-07-08,True
+ACC0254,The Garden Resort,Resort,5,Bordeaux,FR,France,165,2016-10-09,True
+ACC0255,The Blue Villa,Villa,4,Amsterdam,NL,Netherlands,82,2019-06-19,True
+ACC0256,The Royal Hostel,Hostel,5,Berlin,DE,Germany,84,2017-08-03,True
+ACC0257,The Royal Hostel,Hostel,3,Vienna,AT,Austria,170,2019-11-05,False
+ACC0258,The Golden Bed & Breakfast,Bed & Breakfast,5,Rome,IT,Italy,103,2017-08-05,True
+ACC0259,The Cozy Hotel,Hotel,4,Malaga,ES,Spain,151,2018-08-27,True
+ACC0260,The Central Villa,Villa,5,LIÈGE,BE,Belgium,20,2017-07-11,True
+ACC0261,The Golden Resort,Resort,1,Seville,ES,Spain,170,2015-12-20,True
+ACC0262,The Golden Villa,Villa,5,Bern,CH,Switzerland,161,2015-11-22,True
+ACC0263,The Cozy Villa,Villa,4,Ghent,BE,Belgium,91,2018-10-22,True
+ACC0264,The Royal Resort,Resort,3,Stuttgart,DE,Germany,89,2015-07-13,True
+ACC0265,The Green Hostel,Hostel,3,Birmingham,GB,United Kingdom,173,2020-05-29,False
+ACC0266,The Silver Hostel,Hostel,1,Milan,IT,Italy,174,2015-10-17,False
+ACC0267,The Central Resort,Resort,4,Venice,IT,Italy,157,2018-12-22,False
+ACC0268,The Blue Bed & Breakfast,Bed & Breakfast,4,Venice,IT,Italy,89,2019-07-24,True
+ACC0269,The Royal Boutique Hotel,Boutique Hotel,5,STRASBOURG,FR,France,170,2018-10-05,True
+ACC0270,The Park Hotel,Hotel,3,Marseille,FR,France,51,2020-05-01,True
+ACC0271,The Central Apartment,Apartment,2,Florence,IT,Italy,44,2015-06-08,True
+ACC0272,The Sunny Bed & Breakfast,Bed & Breakfast,5,London,GB,United Kingdom,194,2019-12-15,True
+ACC0273,The Central Boutique Hotel,Boutique Hotel,5,Manchester,GB,United Kingdom,157,2017-02-10,True
+ACC0274,The Cozy Boutique Hotel,Boutique Hotel,5,Porto,PT,Portugal,47,2019-01-16,True
+ACC0275,The Riverside Hostel,Hostel,2,Frankfurt,DE,Germany,161,2016-08-06,True
+ACC0276,The City Apartment,Apartment,5,Frankfurt,DE,Germany,84,2020-05-31,True
+ACC0277,The Garden Boutique Hotel,Boutique Hotel,2,Florence,IT,Italy,178,2020-04-23,True
+ACC0278,The Cozy Villa,Villa,3,Valencia,ES,Spain,102,2017-10-26,True
+ACC0279,The Cozy Boutique Hotel,Boutique Hotel,2,Milan,IT,Italy,159,2015-10-11,True
+ACC0280,The Sunny Resort,Resort,4,Rome,IT,Italy,100,2018-02-09,False
+ACC0281,The Cozy Hostel,Hostel,1,Lisbon,PT,Portugal,46,2016-07-12,True
+ACC0282,The Royal Apartment,Apartment,4,Bordeaux,FR,France,61,2019-07-31,True
+ACC0283,The Grand Hotel,Hotel,4,Marseille,FR,France,106,2017-10-25,True
+ACC0284,The City Hotel,Hotel,3,Bruges,BE,Belgium,12,2016-10-14,False
+ACC0285,The Cozy Resort,Resort,3,Malaga,ES,Spain,42,2015-10-09,True
+ACC0286,The Cozy Resort,Resort,2,Bruges,BE,Belgium,185,2017-08-18,True
+ACC0287,The Park Hotel,Hotel,1,Berlin,DE,Germany,60,2019-09-07,True
+ACC0288,The Old Town Bed & Breakfast,Bed & Breakfast,5,STUTTGART,DE,Germany,33,2019-05-09,True
+ACC0289,The City Hotel,Hotel,1,Marseille,FR,France,112,2018-08-01,True
+ACC0290,The Sunny Hotel,Hotel,1,Valencia,ES,Spain,132,2018-05-07,True
+ACC0291,The Green Bed & Breakfast,Bed & Breakfast,2,LIÈGE,BE,Belgium,41,2016-08-19,True
+ACC0292,The Silver Hostel,Hostel,2,Liège,BE,Belgium,111,2016-01-19,True
+ACC0293,The Royal Bed & Breakfast,Bed & Breakfast,3,London,GB,United Kingdom,139,2018-01-19,True
+ACC0294,The Old Town Bed & Breakfast,Bed & Breakfast,1,Bordeaux,FR,France,125,2015-03-31,True
+ACC0295,The Garden Hostel,Hostel,1,GHENT,BE,Belgium,22,2016-12-07,True
+ACC0296,The Cozy Resort,Resort,1,Stuttgart,DE,Germany,153,2019-02-14,True
+ACC0297,The Golden Hotel,Hotel,3,Milan,IT,Italy,91,2019-07-25,True
+ACC0298,The Blue Resort,Resort,4,Utrecht,NL,Netherlands,51,2019-07-20,True
+ACC0299,The Grand Boutique Hotel,Boutique Hotel,4,Malaga,ES,Spain,80,2016-02-17,True
+ACC0300,The Park Hotel,Hotel,3,Antwerp,BE,Belgium,136,2017-03-26,False
+ACC0301,The Grand Villa,Villa,3,liège,BE,Belgium,197,2018-08-17,True
+ACC0302,The Sunny Boutique Hotel,Boutique Hotel,1,HAMBURG,DE,Germany,172,2016-11-10,True
+ACC0303,The Green Villa,Villa,4,HAMBURG,DE,Germany,117,2020-01-07,False
+ACC0304,The Green Apartment,Apartment,4,Seville,ES,Spain,132,2017-01-22,False
+ACC0305,The Green Hostel,Hostel,1,Naples,IT,Italy,113,2015-06-11,True
+ACC0306,The Garden Bed & Breakfast,Bed & Breakfast,3,Geneva,CH,Switzerland,31,2015-06-13,True
+ACC0307,The Silver Hostel,Hostel,4,Hamburg,DE,Germany,188,2017-05-22,True
+ACC0308,The Grand Hostel,Hostel,4,Nice,FR,France,191,2019-11-17,False
+ACC0309,The Blue Villa,Villa,3,Naples,IT,Italy,19,2015-06-03,True
+ACC0310,The Cozy Hostel,Hostel,5,Nice,FR,France,196,2018-10-23,True
+ACC0311,The Blue Apartment,Apartment,5,Berlin,DE,Germany,117,2015-03-13,True
+ACC0312,The Garden Boutique Hotel,Boutique Hotel,3,Antwerp,BE,Belgium,103,2020-04-28,True
+ACC0313,The Garden Apartment,Apartment,4,Liège,BE,Belgium,100,2017-06-28,True
+ACC0314,The Old Town Bed & Breakfast,Bed & Breakfast,3,Salzburg,AT,Austria,85,2018-08-23,True
+ACC0315,The Riverside Hotel,Hotel,2,London,United Kingdom,United Kingdom,137,2017-03-03,False
+ACC0316,The Green Hostel,Hostel,3,Rome,IT,Italy,119,2016-03-15,False
+ACC0317,The City Resort,Resort,4,Marseille,FR,France,36,2015-10-05,True
+ACC0318,The Royal Apartment,Apartment,4,Utrecht,NL,Netherlands,179,2020-06-04,True
+ACC0319,The Green Resort,Resort,3,The Hague,NL,Netherlands,21,2018-01-31,True
+ACC0320,The Green Boutique Hotel,Boutique Hotel,2,The Hague,NL,Netherlands,186,2020-03-14,True
+ACC0321,The Golden Boutique Hotel,Boutique Hotel,3,Munich,DE,Germany,62,2015-09-06,False
+ACC0322,The Grand Apartment,Apartment,4,Milan,IT,Italy,97,2018-02-08,True
+ACC0323,The Central Boutique Hotel,Boutique Hotel,5,Valencia,ES,Spain,161,2019-12-16,True
+ACC0324,The Golden Villa,Villa,4,Marseille,FR,France,110,2019-04-25,True
+ACC0325,The Blue Apartment,Apartment,3,Vienna,AT,Austria,23,2017-07-10,True
+ACC0326,The Sunny Hostel,Hostel,2,Naples,IT,Italy,146,2018-08-03,True
+ACC0327,The Sunny Villa,Villa,5,Munich,DE,Germany,19,2019-08-30,True
+ACC0328,The Central Hostel,Hostle,2,Barcelona,ES,Spain,87,2020-03-29,True
+ACC0329,The Sunny Bed & Breakfast,Bed & Breakfast,3,Marseille,FR,France,25,2016-05-28,True
+ACC0330,The Blue Hostel,Hostel,2,Eindhoven,NL,Netherlands,82,2018-06-12,True
+ACC0331,The Silver Resort,Resort,2,Bordeaux,FR,France,153,2015-11-12,True
+ACC0332,The Garden Resort,Ressort,5,Naples,IT,Italy,149,2015-03-26,True
+ACC0333,The Blue Hotel,Hotel,1,Brussels,BE,Belgium,152,2016-06-26,True
+ACC0334,The Blue Villa,Villa,5,LIÈGE,BE,Belgium,12,2017-10-16,True
+ACC0335,The Riverside Hostel,Hostel,3,Liège,BE,Belgium,67,2019-07-07,True
+ACC0336,The Royal Hostel,Hostel,4,Bruges,BE,Belgium,181,2015-05-03,True
+ACC0337,The City Villa,Villa,4,Birmingham,GB,United Kingdom,92,2018-05-27,True
+ACC0338,The Old Town Hostel,Hostel,3,Turin,IT,Italy,38,2019-04-07,True
+ACC0339,The City Hotel,Hotel,3,Cologne,DE,Germany,124,2015-09-08,True
+ACC0340,The Grand Apartment,Apartment,1,Antwerp,BE,Belgium,79,2020-04-20,True
+ACC0341,The Sunny Villa,Villa,2,Cologne,DE,Germany,45,2019-07-25,True
+ACC0342,The City Resort,Resort,3,Cologne,DE,Germany,200,2015-11-23,True
+ACC0343,The Park Villa,Villa,4,Eindhoven,NL,Netherlands,132,2015-02-17,True
+ACC0344,The City Bed & Breakfast,Bed & Breakfast,4,Frankfurt,DE,Germany,60,2018-04-09,True
+ACC0345,The Silver Hostel,Hostel,4,Paris,France,France,172,2018-10-09,True
+ACC0346,The Old Town Hotel,Hotel,1,Bilbao,ES,Spain,39,2019-12-13,True
+ACC0347,The Garden Boutique Hotel,Boutique Hotel,4,seville,ES,Spain,16,2017-03-31,True
+ACC0348,The Golden Apartment,Apartment,3,LIÈGE,BE,Belgium,78,2015-05-31,True
+ACC0349,The Park Boutique Hotel,Boutique Hotel,5,Nice,FR,France,164,2018-10-25,True
+ACC0350,The Garden Hotel,Hotel,4,Barcelona,ES,Spain,91,2018-02-16,False
+ACC0351,The Golden Apartment,Apartment,5,Munich,DE,Germany,107,2017-10-21,True
+ACC0352,The Cozy Apartment,Apartment,3,London,GB,United Kingdom,126,2017-11-29,True
+ACC0353,The Garden Bed & Breakfast,Bed & Breakfast,2,Bilbao,ES,Spain,161,2016-10-14,True
+ACC0354,The Silver Resort,Resort,3,Eindhoven,NL,Netherlands,91,2017-11-04,True
+ACC0355,The Park Villa,Villa,5,Liège,BE,Belgium,126,2019-07-29,True
+ACC0356,The Old Town Resort,Resort,1,Seville,ES,Spain,154,2016-09-22,True
+ACC0357,The Park Bed & Breakfast,Bed & Breakfast,4,Brussels,BE,Belgium,172,2019-05-23,False
+ACC0358,The Green Bed & Breakfast,Bed & Breakfast,2,Bilbao,ES,Spain,18,2018-04-10,True
+ACC0359,The Grand Apartment,Apartment,2,GRAZ,AT,Austria,151,2020-04-25,True
+ACC0360,The Garden Hotel,Hotel,4,Barcelona,ES,Spain,112,2015-11-07,True
+ACC0361,The Cozy Villa,Villa,5,Lyon,FR,France,161,2020-02-29,True
+ACC0362,The Green Resort,Resort,1,Malaga,ES,Spain,40,2017-11-28,True
+ACC0363,The Golden Resort,Resort,4,Hamburg,DE,Germany,101,2016-10-04,False
+ACC0364,The Golden Bed & Breakfast,Bed & Breakfast,3,Frankfurt,DE,Germany,95,2018-10-16,True
+ACC0365,The City Bed & Breakfast,Bed & Breakfast,4,INNSBRUCK,AT,Austria,68,2016-07-25,True
+ACC0366,The Green Hostel,Hostel,3,Lyon,FR,France,58,2018-11-14,True
+ACC0367,The Golden Villa,Villa,3,Innsbruck,AT,Austria,189,2016-07-14,True
+ACC0368,The Cozy Villa,Villa,3,Coimbra,PT,Portugal,42,2016-08-17,True
+ACC0369,The Blue Hostel,Hostel,4,Amsterdam,NL,Netherlands,70,2019-03-11,True
+ACC0370,The Park Boutique Hotel,Boutique Hotel,5,Antwerp,BE,Belgium,148,2018-11-26,True
+ACC0371,The City Bed & Breakfast,Bed & Breakfast,5,Brussels,BE,Belgium,67,2015-04-14,True
+ACC0372,The Grand Apartment,Appartment,2,Liège,Belgium,Belgium,30,2017-04-26,True
+ACC0373,The Grand Hotel,Hotel,2,Bruges,BE,Belgium,145,2020-03-17,True
+ACC0374,The Blue Villa,Villa,4,MALAGA,ES,Spain,56,2019-03-29,False
+ACC0375,The Cozy Hostel,Hostel,1,Ghent,BE,Belgium,27,2018-08-28,True
+ACC0376,The Central Resort,Resort,1,Bordeaux,FR,France,111,2019-12-12,True
+ACC0377,The Cozy Boutique Hotel,Boutique Hotel,4,London,GB,United Kingdom,131,2016-01-17,False
+ACC0378,The Park Hotel,Hotel,1,Ghent,BE,Belgium,150,2018-05-19,True
+ACC0379,The Blue Hostel,Hostel,4,Manchester,GB,United Kingdom,144,2017-12-09,True
+ACC0380,The Riverside Boutique Hotel,Boutique Hotel,5,Lyon,FR,France,74,2016-01-30,True
+ACC0381,The Blue Apartment,Apartment,4,Ghent,BE,Belgium,70,2019-01-11,True
+ACC0382,The Silver Hostel,Hostel,3,Turin,IT,Italy,177,2019-03-31,True
+ACC0383,The Sunny Boutique Hotel,Boutique Hotel,4,Bilbao,ES,Spain,114,2017-11-21,True
+ACC0384,The Central Resort,Resort,1,BIRMINGHAM,GB,United Kingdom,40,2017-09-04,True
+ACC0385,The Old Town Hotel,Hotel,3,Milan,IT,Italy,65,2017-07-03,True
+ACC0386,The Green Hostel,Hostel,5,Venice,IT,Italy,151,2015-01-24,True
+ACC0387,The Grand Resort,Resort,2,Marseille,FR,France,175,2015-08-31,True
+ACC0388,The Green Villa,Villa,5,Rotterdam,NL,Netherlands,84,2018-11-14,True
+ACC0389,The City Hostel,Hostle,5,VENICE,IT,Italy,61,2020-05-14,True
+ACC0390,The Garden Villa,Villa,5,Milan,IT,Italy,111,2018-12-08,True
+ACC0391,The Cozy Boutique Hotel,Boutique Hotel,5,Bern,Switzerland,Switzerland,175,2019-08-18,True
+ACC0392,The Sunny Resort,Ressort,5,Lyon,FR,France,25,2017-12-12,True
+ACC0393,The Silver Hostel,Hostel,1,Strasbourg,FR,France,33,2015-05-07,True
+ACC0394,The Golden Apartment,Apartment,5,naples,IT,Italy,43,2015-12-03,True
+ACC0395,The Blue Villa,Villa,1,Bordeaux,FR,France,57,2019-01-08,True
+ACC0396,The Cozy Bed & Breakfast,Bed & Breakfast,4,Vienna,AT,Austria,19,2017-07-17,True
+ACC0397,The Grand Villa,Villa,5,birmingham,GB,United Kingdom,148,2017-08-04,True
+ACC0398,The Old Town Resort,Resort,1,Hamburg,DE,Germany,70,2019-07-31,True
+ACC0399,The Grand Bed & Breakfast,Bed & Breakfast,1,Milan,IT,Italy,113,2016-12-06,True
+ACC0400,The Riverside Hotel,Hotel,1,Naples,IT,Italy,13,2016-08-10,True
+ACC0401,The Garden Boutique Hotel,Boutique Hotel,4,ANTWERP,BE,Belgium,102,2017-07-07,True
+ACC0402,The Blue Villa,Villa,1,Coimbra,PT,Portugal,174,2019-11-27,True
+ACC0403,The Royal Boutique Hotel,Boutique Hotel,3,stuttgart,DE,Germany,50,2018-01-05,True
+ACC0404,The Sunny Resort,Resort,2,Edinburgh,GB,United Kingdom,5,2019-03-29,True
+ACC0405,The Old Town Villa,Villa,5,Marseille,FR,France,141,2017-02-15,True
+ACC0406,The Central Villa,Villa,3,Porto,PT,Portugal,75,2016-01-22,False
+ACC0407,The Grand Boutique Hotel,Boutique Hotel,1,Strasbourg,France,France,174,2017-05-08,True
+ACC0408,The Royal Apartment,Appartment,2,Brussels,BE,Belgium,30,2018-05-01,True
+ACC0409,The Old Town Apartment,Apartment,1,Lisbon,PT,Portugal,117,2016-04-24,True
+ACC0410,The Park Apartment,Apartment,5,Brussels,BE,Belgium,64,2019-07-29,False
+ACC0411,The Silver Hostel,Hostel,5,Bordeaux,FR,France,177,2019-08-04,True
+ACC0412,The City Apartment,Appartment,5,Innsbruck,AT,Austria,110,2016-09-07,True
+ACC0413,The Golden Resort,Resort,4,Salzburg,AT,Austria,131,2015-04-07,False
+ACC0414,The Cozy Resort,Resort,4,Malaga,ES,Spain,139,2016-10-14,True
+ACC0415,The Old Town Apartment,Apartment,3,Valencia,ES,Spain,52,2019-03-26,True
+ACC0416,The Park Boutique Hotel,Boutique Hotel,2,Munich,DE,Germany,186,2015-10-23,True
+ACC0417,The Old Town Bed & Breakfast,Bed & Breakfast,4,Paris,FR,France,147,2017-12-21,True
+ACC0418,The Garden Hostel,Hostel,2,Lyon,FR,France,170,2015-06-11,False
+ACC0419,The Green Hotel,Hotel,5,Seville,ES,Spain,53,2015-04-16,True
+ACC0420,The Grand Bed & Breakfast,Bed & Breakfast,5,TURIN,IT,Italy,23,2016-01-21,True
+ACC0421,The City Resort,Resort,5,Naples,IT,Italy,127,2016-03-03,True
+ACC0422,The City Hostel,Hostel,1,Venice,IT,Italy,53,2020-05-24,True
+ACC0423,The Green Apartment,Apartment,5,Bruges,BE,Belgium,57,2017-03-23,False
+ACC0424,The Old Town Hostel,Hostel,3,Cologne,DE,Germany,124,2017-12-28,True
+ACC0425,The Golden Hostel,Hostel,3,Ghent,Belgium,Belgium,132,2017-08-12,True
+ACC0426,The City Villa,Villa,3,Stuttgart,DE,Germany,99,2016-10-02,True
+ACC0427,The Green Boutique Hotel,Boutique Hotel,2,Cologne,DE,Germany,42,2015-02-03,True
+ACC0428,The Park Bed & Breakfast,Bed & Breakfast,4,Bristol,GB,United Kingdom,44,2016-02-06,True
+ACC0429,The Riverside Bed & Breakfast,Bed & Breakfast,2,Nice,France,France,145,2018-09-02,False
+ACC0430,The Green Hostel,Hostel,4,Ghent,BE,Belgium,169,2019-02-23,True
+ACC0431,The Central Resort,Resort,3,antwerp,BE,Belgium,40,2019-01-15,True
+ACC0432,The Golden Bed & Breakfast,Bed & Breakfast,1,Milan,IT,Italy,13,2019-09-15,True
+ACC0433,The Old Town Hotel,Hotel,1,Malaga,Spain,Spain,40,2019-09-22,True
+ACC0434,The Grand Resort,Resort,2,Brussels,BE,Belgium,60,2017-11-01,True
+ACC0435,The Riverside Bed & Breakfast,Bed & Breakfast,5,Brussels,BE,Belgium,173,2017-09-26,True
+ACC0436,The Grand Bed & Breakfast,Bed & Breakfast,4,Naples,IT,Italy,9,2017-12-20,True
+ACC0437,The Golden Hostel,Hostel,1,Liège,BE,Belgium,183,2018-10-12,True
+ACC0438,The Golden Hotel,Hotel,1,Edinburgh,GB,United Kingdom,43,2016-05-08,True
+ACC0439,The Park Hostel,Hostel,3,Naples,IT,Italy,106,2015-06-11,True
+ACC0440,The City Villa,Villa,5,BRUGES,BE,Belgium,183,2016-04-07,True
+ACC0441,The Royal Resort,Ressort,1,Brussels,BE,Belgium,108,2017-02-15,True
+ACC0442,The Green Hotel,Hotel,1,Bern,CH,Switzerland,48,2015-06-19,True
+ACC0443,The Silver Resort,Ressort,3,Nice,FR,France,29,2020-01-07,True
+ACC0444,The Sunny Apartment,Apartment,2,Paris,FR,France,182,2019-12-23,True
+ACC0445,The Blue Hotel,Hotel,1,manchester,GB,United Kingdom,76,2020-01-16,True
+ACC0446,The Grand Apartment,Apartment,3,Vienna,AT,Austria,58,2018-04-17,True
+ACC0447,The Central Hotel,Hotel,3,Bern,CH,Switzerland,149,2016-05-07,True
+ACC0448,The Garden Resort,Resort,5,Florence,IT,Italy,103,2019-03-28,True
+ACC0449,The Golden Resort,Resort,1,Strasbourg,France,France,195,2020-06-18,True
+ACC0450,The Sunny Villa,Villa,2,brussels,BE,Belgium,24,2016-11-28,True
